@@ -1,0 +1,1334 @@
+,conversation,soap_notes,rag_retried,rag_response,direct_prompt_response,rag_rouge,direct_rouge,rag_bleu,direct_blue
+0,"
+Physician: Good morning, Ivan. How are you feeling today?
+
+Patient: Hi, Dr. Cole. I've been feeling pretty miserable lately. I've had this constant ear pain, and it's been affecting my sleep and overall well-being.
+
+Physician: I see. Can you tell me more about the ear pain? Is it sharp, dull, or throbbing? And which ear is affected?
+
+Patient: It's a dull, aching pain in both ears, but the left ear is worse. It's been persistent for the past few weeks, and it's been getting worse.
+
+Physician: Okay. Have you experienced any other symptoms like fever, drainage, or difficulty hearing?
+
+Patient: Yes, I've had some hearing loss, and my ears feel plugged. I've also had some drainage, but it's not too much. And yes, I've had a low-grade fever on and off.
+
+Physician: I understand. Have you noticed any triggers that make the ear pain worse, such as allergies or sinus pressure?
+
+Patient: Yes, definitely. Whenever I have allergies, my ear pain seems to worsen. And I've been having a lot of sinus pressure and congestion lately.
+
+Physician: That's helpful to know. Have you tried any treatments or medications for your symptoms?
+
+Patient: I've been using over-the-counter pain relievers and decongestants, but they don't seem to be helping much.
+
+Physician: I see. Based on what you've shared, it sounds like you might have developed a couple of complications related to your allergies and sinus issues. We'll need to address these issues and prevent them from becoming chronic problems.
+
+Patient: That sounds good. What do you recommend?
+
+Physician: First, we'll need to update your vaccines to ensure you're protected against influenza and other diseases. We'll also schedule you for a colonoscopy to rule out any potential issues. In addition, we'll perform a hearing test to assess any hearing loss and determine the best course of action.
+
+Patient: Okay, that makes sense.
+
+Physician: We'll also consider prescribing medications to manage your allergies and sinus pressure. And I'll consult with Dr. Smith, your ENT specialist, to get his input on your ear issues.
+
+Patient: That sounds like a good plan.
+
+Physician: Great. We'll coordinate with Dr. Smith's office to schedule an appointment for you. In the meantime, I recommend that you avoid any known allergens and take steps to minimize your exposure to dust, pollen, and other irritants.
+
+Patient: Okay, I'll do that. Thank you, Dr. Cole.
+
+Physician: You're welcome, Ivan. We'll follow up with you soon to discuss the results of your tests and develop a comprehensive treatment plan.","Subjective:
+Ivan Bailey reports feeling miserable due to constant ear pain that has been affecting his sleep and overall well-being. He describes the pain as dull and aching, worse in the left ear, with associated hearing loss, ear plugging, drainage, and low-grade fever. He notes that allergies exacerbate the symptoms, along with sinus pressure and congestion. Over-the-counter pain relievers and decongestants have provided minimal relief.
+
+Objective:
+Ivan Bailey presents with symptoms of chronic ear pain, hearing loss, drainage, and congestion. Physical examination reveals signs of bilateral ear inflammation. Vital signs are within normal limits. Immunization status is up to date, with pending results for a colonoscopy. ENT specialist Dr. Robert Smith recommends a hearing test to monitor for potential hearing loss.
+
+Assessment:
+Ivan Bailey is experiencing recurrent ear infections with complications related to allergies and sinus issues. Further evaluation is needed to determine the extent of the infection and associated hearing loss. Collaborative care with the ENT specialist is recommended to address the ear issues comprehensively.
+
+Plan:
+1. Update vaccines for influenza and tetanus.
+2. Schedule a colonoscopy to rule out potential issues.
+3. Perform a hearing test to assess hearing loss.
+4. Prescribe medications to manage allergies and sinus pressure.
+5. Consult with ENT specialist Dr. Robert Smith for further evaluation and treatment recommendations.
+6. Advise Ivan to avoid allergens and irritants to minimize symptoms.
+7. Follow up with Ivan to discuss test results and develop a comprehensive treatment plan.","Conversation: 
+ patient_convo: Physician: Good morning, Armando. How can I assist you today?
+
+Patient: Hi, Dr. Gonzales. I've been experiencing some discomfort in my right ear, and I was hoping you could check it out.
+
+Physician: Of course. Can you describe the discomfort you're feeling? Is it a sharp pain, a dull ache, or something else?
+
+Patient: It's more of a dull ache, and it's been persistent for the past six months. It's not excruciating, but it's definitely noticeable.
+
+Physician: I see. Have you experienced any other symptoms, such as ear discharge, fever, or difficulty hearing?
+
+Patient: Yes, I've had some discharge and occasional fevers. My hearing doesn't seem to be affected, though.
+
+Physician: Okay, that's helpful. Have you tried any treatments or remedies for your symptoms?
+
+Patient: I've been using over-the-counter pain relievers and drops, but they only provide temporary relief. That's why I wanted to see you, to get a proper diagnosis and treatment plan.
+
+Physician: Absolutely. I understand your concern. Have you had any previous ear infections or issues with your ears?
+
+Patient: No, this is the first time I've experienced anything like this.
+
+Physician: Okay. Do you have a history of allergies or sinus issues?
+
+Patient: No, I don't have any allergies that I'm aware of.
+
+Physician: Great. Have you been exposed to any loud noises or had any recent travel or changes in your environment that could be contributing to your symptoms?
+
+Patient: No, nothing like that. Just the usual work and daily routine.
+
+Physician: Alright. I'm going to perform an examination of your ear, and we'll also run some tests to determine the cause of your symptoms. In the meantime, I'd like to schedule you for a follow-up appointment to review the results and discuss a treatment plan. Does that sound good to you?
+
+Patient: Yes, that works for me. Thank you, Dr. Gonzales.
+
+Physician: You're welcome, Armando. We'll get to the bottom of this and get you feeling better soon. 
+ SOAP Notes: 
+ Subjective:
+Armando reports experiencing a dull ache in his right ear for the past six months. He also mentions having ear discharge and occasional fevers. He sought medical attention due to the persistence of his symptoms despite using over-the-counter remedies.
+
+Objective:
+Armando appears in good general health during the examination. There is no visible redness or swelling around the right ear. Otoscopic examination reveals mild inflammation and fluid accumulation in the right ear canal. No signs of perforation or obstruction are noted. Vital signs are within normal limits.
+
+Assessment:
+Armando presents with symptoms consistent with chronic right ear infections. The recurring nature of his symptoms and the lack of improvement with self-care measures indicate the need for further evaluation and treatment. The patient's medical history and family background suggest a predisposition to ear infections.
+
+Plan:
+1. Prescribe a course of Amoxicillin 500 mg twice daily for 7 days to address the infection.
+2. Schedule a follow-up appointment in two weeks to assess treatment response and consider additional interventions if needed.
+3. Educate Armando on proper ear hygiene practices and the importance of completing the prescribed medication regimen.
+4. Advise Armando to monitor his symptoms and report any worsening or new concerns promptly.
+5. Discuss the importance of timely vaccinations, including the upcoming influenza vaccine, to support overall health and immunity. ","SOAP Notes:
+
+Subjective:
+Ivan reports a dull, aching pain in both ears for the past few weeks, with the left ear being worse. He has experienced hearing loss, feeling of plugged ears, and drainage, along with a low-grade fever. He notes that his ear pain worsens with allergies and sinus pressure. Over-the-counter pain relievers and decongestants have provided little relief.
+
+Objective:
+Upon examination, Ivan appears to be in discomfort due to his ear pain. His ears show signs of inflammation and congestion. There is mild fluid discharge observed and evidence of hearing loss. He also presents with a low-grade fever.
+
+Assessment:
+Ivan's symptoms suggest a complex ear problem potentially related to allergy and sinus issues. The persistence of his symptoms despite over-the-counter treatment and his reports of worsening pain with allergies and sinus pressure indicate the possibility of a sinus-related ear infection or Eustachian tube dysfunction.
+
+Plan:
+1. Update Ivan's vaccines to protect against influenza and other diseases.
+2. Schedule a colonoscopy to rule out any potential issues.
+3. Perform a hearing test to assess hearing loss and inform further treatment.
+4. Consider prescribing medications to manage allergies and sinus pressure.
+5. Consult with Dr. Smith, an ENT specialist, for further evaluation and treatment recommendations.
+6. Advise Ivan to avoid known allergens and minimize exposure to dust, pollen, and other irritants.
+7. Coordinate with Dr. Smith's office to schedule an appointment.
+8. Follow up with Ivan to discuss the results of his tests and develop a comprehensive treatment plan.","Subjective (S): 
+Ivan reports having a constant, dull, aching pain in both ears for the past few weeks, with the left ear being more affected. He has experienced some hearing loss, feels his ears are plugged, and has had some drainage. He has also had a low-grade fever off and on. Ivan mentions that the ear pain worsens when he has allergies and with sinus pressure and congestion. He has tried over-the-counter pain relievers and decongestants, but they have not been effective in relieving his symptoms.
+
+Objective (O): 
+Ivan appears alert and oriented during the consultation. He reports having a low-grade fever on and off. He mentions that he has been experiencing hearing loss, drainage, and a plugged feeling in his ears. 
+
+Assessment (A): 
+Based on Ivan's symptoms, it seems he might have developed complications related to his allergies and sinus issues that may be affecting his ear health. This could include conditions such as otitis media or Eustachian tube dysfunction. Further assessment, including a hearing test and ENT consultation, is needed to confirm the diagnosis.
+
+Plan (P): 
+1. Update Ivan's vaccines to protect against influenza and other diseases.
+2. Schedule a colonoscopy to rule out any potential issues.
+3. Perform a hearing test to assess the extent of hearing loss and determine the appropriate treatment.
+4. Consider prescribing medications to manage Ivan's allergies and sinus pressure.
+5. Consult with Dr. Smith, the ENT specialist, for further evaluation of the ear issues.
+6. Coordinate with Dr. Smith's office to schedule an appointment.
+7. Advise Ivan to avoid known allergens and minimize exposure to dust, pollen, and other irritants.
+8. Follow up with Ivan to discuss the results of his tests and develop a comprehensive treatment plan.","{'rouge1': 0.6587301587301587, 'rouge2': 0.33067729083665337, 'rougeL': 0.4801587301587302, 'rougeLsum': 0.5952380952380951}","{'rouge1': 0.6122448979591836, 'rouge2': 0.29795158286778395, 'rougeL': 0.4230055658627087, 'rougeLsum': 0.5640074211502784}","{'bleu': 0.3430950852662087, 'precisions': [0.6815068493150684, 0.3951890034364261, 0.2655172413793103, 0.19377162629757785], 'brevity_penalty': 1.0, 'length_ratio': 1.0318021201413428, 'translation_length': 292, 'reference_length': 283}","{'bleu': 0.2532736645292853, 'precisions': [0.5877192982456141, 0.3284457478005865, 0.18529411764705883, 0.11504424778761062], 'brevity_penalty': 1.0, 'length_ratio': 1.2084805653710247, 'translation_length': 342, 'reference_length': 283}"
+1,"
+
+Physician: Good morning, Mr. Pearson. How are you feeling today?
+
+Patient: Good morning, Dr. Andrews. I'm doing alright, but I've been experiencing some issues with my vision lately.
+
+Physician: I see. Can you tell me more about that? What kind of problems are you having with your vision?
+
+Patient: Well, it's been coming and going, but sometimes things look blurry, especially when I'm reading or looking at something far away. It's like my eyes can't focus properly.
+
+Physician: Okay, that sounds like it could be a few different things. Have you noticed any double vision or eye pain?
+
+Patient: No, it's just the blurriness. And it's not all the time, just sometimes.
+
+Physician: Alright. Have you had any recent head injuries or illnesses that could be contributing to this?
+
+Patient: No, nothing like that. I did have a cold a few weeks ago, but it didn't seem to affect my vision.
+
+Physician: I see. Have you had any eye problems in the past, or does anyone in your family have any eye conditions?
+
+Patient: No, I've never had any eye problems before. And as far as I know, no one in my family has any eye conditions either.
+
+Physician: Okay, that's good to know. Have you noticed any other symptoms, like eye strain or headaches?
+
+Patient: A little bit of eye strain, but nothing too severe. And no headaches that I can think of.
+
+Physician: Alright. Let's take a closer look. Can you tell me what you do for work, Mr. Pearson?
+
+Patient: I'm a computer programmer, so I spend a lot of time looking at screens.
+
+Physician: I see. That could definitely contribute to eye strain. Have you tried any eye exercises or adjusting the display settings on your computer to help with that?
+
+Patient: No, I haven't. But I did get a new pair of glasses a few months ago, and that seemed to help a bit.
+
+Physician: That's good to hear. We'll definitely want to take a closer look at your eyes and see if there's anything else we can do to help you. In the meantime, I'd like to schedule you for a follow-up appointment with an ophthalmologist to get a more detailed assessment of your vision. Sound good?
+
+Patient: Sounds good to me. Thank you, Dr. Andrews.
+
+Physician: Of course, Mr. Pearson. We'll get to the bottom of this and make sure you're seeing clearly in no time.","Subjective:
+Mr. Pearson reports experiencing intermittent blurry vision, especially when reading or looking at objects far away. He denies double vision, eye pain, headaches, or recent head injuries/illnesses. He mentions a history of a cold a few weeks ago but states it did not affect his vision. Mr. Pearson works as a computer programmer and notes some eye strain due to prolonged screen time. He got new glasses a few months ago, which provided some relief.
+
+Objective:
+Mr. Pearson presents with no signs of eye pain or double vision during the examination. His eyes appear normal without redness or discharge. Visual acuity is 20/20 with correction. Pupils are equal, round, and reactive to light. Extraocular movements are intact. No signs of eye muscle weakness or nystagmus. Fundoscopic exam reveals clear optic discs with sharp margins. No evidence of retinal abnormalities or hemorrhages.
+
+Assessment:
+Mr. Pearson is experiencing intermittent blurry vision, likely related to eye strain from prolonged screen time as a computer programmer. No significant findings on physical examination to suggest underlying eye pathology. Referral to an ophthalmologist for further evaluation and management of his vision issues.
+
+Plan:
+1. Schedule a follow-up appointment with an ophthalmologist for a detailed assessment of Mr. Pearson's vision.
+2. Educate Mr. Pearson on eye exercises and proper screen ergonomics to reduce eye strain.
+3. Encourage regular breaks from screen time to rest his eyes.
+4. Follow up with the ophthalmologist's recommendations for further management.
+5. Schedule routine eye exams to monitor any changes in vision.","Conversation: 
+ patient_convo: Physician: Good morning, Mr. Simpson. How are you feeling today?
+
+Patient: I'm doing alright, Doc. I guess I'm here because I've been having some vision problems lately.
+
+Physician: I see. Can you tell me a little more about that? What kind of vision problems are you experiencing?
+
+Patient: Well, it's mostly trouble reading. It's like the words just blur together, especially when the lighting isn't so great. And sometimes I see double.
+
+Physician: Okay, that's helpful. Have you noticed any other symptoms? Do you have headaches, eye strain, or anything like that?
+
+Patient: Yeah, I do get headaches sometimes. And my eyes definitely feel strained after a while. But it's not like it's constant. It comes and goes.
+
+Physician: I understand. Have you had any recent changes in your environment or habits that could be contributing to this? Like changes in lighting or your reading habits?
+
+Patient: Well, I did get a new computer for work a few months ago, and I've been spending more time on it. Maybe that's got something to do with it?
+
+Physician: That's possible. We'll definitely want to look into that. And have you noticed any differences in your vision between your left and right eyes?
+
+Patient: Now that you mention it, I think my left eye might be a little worse than my right. But it's hard to tell.
+
+Physician: Okay, that's good to know. How long have you been experiencing these symptoms?
+
+Patient: It's been a few months now. I didn't think much of it at first, but it's been getting worse.
+
+Physician: I see. Have you had any eye problems in the past?
+
+Patient: Just the usual stuff. I had glasses when I was a kid, and I've had a few eye injuries over the years, but nothing too serious.
+
+Physician: Alright. Have you noticed any other symptoms, like blurred vision, flashes of light, or floaters?
+
+Patient: No, nothing like that. Just the double vision and trouble reading.
+
+Physician: Okay. I'm going to recommend that you see an optometrist for a comprehensive eye exam. We'll also run some tests to rule out any underlying conditions that could be contributing to your symptoms. In the meantime, it might be a good idea to take regular breaks when using your computer and try to limit your screen time. We'll follow up after the eye exam and go from there. Sound good?
+
+Patient: Sounds good to me, Doc. Thanks. 
+ SOAP Notes: 
+ Subjective:
+Mr. Simpson presents with complaints of vision problems, specifically difficulty reading and occasional double vision. He reports experiencing headaches and eye strain, especially after prolonged computer use. Symptoms have been present for a few months and have been progressively worsening.
+
+Objective:
+During the examination, Mr. Simpson appeared alert and oriented. He mentioned that his left eye may have worse vision than his right. No other significant findings were noted during the physical examination. Patient's significant history includes former tobacco use, occasional alcohol consumption, and a recent change in computer use habits.
+
+Assessment:
+Mr. Simpson is presenting with symptoms of vision impairment, including trouble reading and double vision. Given the duration and progression of symptoms, further evaluation by an optometrist is recommended to rule out any underlying conditions. No acute issues were identified during the examination.
+
+Plan:
+Refer Mr. Simpson to an optometrist for a comprehensive eye exam to assess his vision problems. Instruct the patient to take regular breaks when using the computer and limit screen time to alleviate eye strain. Follow up with the patient after the eye exam to discuss the results and determine the next steps in managing his vision issues. Encourage continued engagement in care and adherence to recommendations. ","SOAP Notes:
+
+Subjective:
+Mr. Pearson reports experiencing intermittent blurry vision, especially when reading or looking at objects in the distance. He denies any double vision or eye pain. He has noticed mild eye strain but no headaches. He works as a computer programmer, spending significant time in front of a screen. He got new glasses few months ago which seemed to help a bit. No history of any eye conditions either personally or in the family.
+
+Objective:
+Mr. Pearson is alert and oriented. He appears to be in no acute distress. No other significant findings noted during the physical examination.
+
+Assessment:
+Mr. Pearson's symptoms of intermittent blurry vision and eye strain could be associated with prolonged screen time due to his job as a computer programmer. As there is no history of any eye conditions or recent head trauma, his symptoms could be related to a refractive error, computer vision syndrome, or an age-related change.
+
+Plan:
+Refer Mr. Pearson to an ophthalmologist for a detailed eye examination to determine the exact cause of his blurry vision. In the meantime, recommend that he take frequent breaks while using the computer, adjust screen brightness, and engage in eye exercises. A follow-up appointment will be scheduled to discuss the results of the ophthalmologist's examination and further management plan.","Subjective (S): 
+Mr. Pearson reports intermittent blurriness in vision, particularly when reading or viewing objects at a distance. He denies experiencing double vision or eye pain. He has noticed some eye strain but denies headaches. The patient states he has not had any recent head injuries, illnesses, or past eye problems. He spends a considerable amount of time looking at screens due to his profession as a computer programmer. He recently got a new pair of glasses which seemed to help somewhat.
+
+Objective (O): 
+Mr. Pearson is alert and oriented. He is able to articulate his symptoms clearly. There are no visible signs of eye distress or discomfort during the conversation. A more detailed visual examination is pending.
+
+Assessment (A): 
+Mr. Pearson's symptoms suggest a possible refractive error, possibly related to his extensive screen time. However, his symptoms could also suggest other vision conditions. His new glasses seem to have provided some relief, suggesting a refractive issue, but a more detailed examination by an ophthalmologist is warranted.
+
+Plan (P): 
+1. Refer Mr. Pearson for a detailed ophthalmological examination to diagnose the cause of his vision problems.
+2. Advise Mr. Pearson to take regular breaks from screen time to alleviate eye strain.
+3. Suggest Mr. Pearson to try some eye exercises and adjust display settings on his computer to help with eye strain.
+4. Schedule a follow-up appointment after the ophthalmological examination to discuss the results and further treatment plan.
+5. Advise Mr. Pearson to monitor his symptoms closely and seek immediate medical attention if symptoms worsen or new symptoms develop.","{'rouge1': 0.5726315789473684, 'rouge2': 0.27906976744186046, 'rougeL': 0.34947368421052627, 'rougeLsum': 0.5052631578947367}","{'rouge1': 0.5444015444015443, 'rouge2': 0.20930232558139536, 'rougeL': 0.3204633204633205, 'rougeLsum': 0.4826254826254826}","{'bleu': 0.2145562291014949, 'precisions': [0.6504065040650406, 0.33877551020408164, 0.18442622950819673, 0.12345679012345678], 'brevity_penalty': 0.8061808721866681, 'length_ratio': 0.822742474916388, 'translation_length': 246, 'reference_length': 299}","{'bleu': 0.16851864227431912, 'precisions': [0.5760517799352751, 0.2662337662337662, 0.1237785016286645, 0.042483660130718956], 'brevity_penalty': 1.0, 'length_ratio': 1.0334448160535117, 'translation_length': 309, 'reference_length': 299}"
+2,"
+
+Physician: Good morning, Mr. Ross. How can I assist you today?
+
+Patient: Hi, Dr. Williamson. I've been feeling pretty miserable for the past week. I've got a constant runny nose, my throat is sore, and I'm feeling really tired all the time.
+
+Physician: I see. Have you had any fever or chills?
+
+Patient: Yeah, I've had a low-grade fever, around 100.3, and I've been feeling chilly, even with the heat on at home.
+
+Physician: Okay, let's start with your nose. What's the consistency of the discharge like? Is it thick, thin, watery?
+
+Patient: It's been pretty thick and yellowish.
+
+Physician: And your throat? Is it scratchy or sore?
+
+Patient: It's sore, especially when I swallow. It feels like there's something stuck in there.
+
+Physician: All right. Have you noticed any other symptoms? Headaches, body aches, or congestion?
+
+Patient: Yeah, my head's been pounding, and my body feels heavy, like I've been hit by a truck. My chest feels congested, and I've been coughing up a lot of mucus.
+
+Physician: I understand. Have you tried any over-the-counter medications or remedies?
+
+Patient: I've been taking pseudoephedrine for the congestion, but it doesn't seem to be doing much.
+
+Physician: I see. How's your appetite been?
+
+Patient: To be honest, I haven't had much of an appetite. I've been drinking a lot of fluids, though.
+
+Physician: That's good. Staying hydrated is important. Have you noticed any shortness of breath or wheezing?
+
+Patient: No, nothing like that. Just the congestion and coughing.
+
+Physician: All right. Let's take a look at your medical history. I see that you have hypertension and diabetes. Are you taking any medications for those conditions?
+
+Patient: Yes, I take amlodipine for my blood pressure and metformin for my diabetes.
+
+Physician: Great. Have you noticed any changes in your blood sugar levels or blood pressure recently?
+
+Patient: No, nothing out of the ordinary.
+
+Physician: Okay. I'm going to order a cholesterol test to check your levels. We'll also run a nasal swab to confirm if you have a viral infection. In the meantime, I'd like to prescribe an antiviral medication to help manage your symptoms.
+
+Patient: Sounds good to me.
+
+Physician: I'll also recommend that you continue taking pseudoephedrine for your congestion and cough. Let's schedule a follow-up appointment for next week to reassess your condition and review the test results.
+
+Patient: That works for me. Thank you, Dr. Williamson.
+
+Physician: You're welcome, Mr. Ross. We'll get you feeling better soon.","Subjective:
+Mr. Ross presents with symptoms of a common cold, including a constant runny nose, sore throat, fatigue, low-grade fever, chills, headache, body aches, chest congestion, and coughing up yellowish, thick mucus. He reports taking pseudoephedrine for congestion with minimal relief and decreased appetite. He denies shortness of breath or wheezing.
+
+Objective:
+Mr. Ross appears fatigued during the examination. Vital signs show a low-grade fever of 100.3 degrees Fahrenheit. Nasal discharge is thick and yellowish. Throat examination reveals redness and swelling. Chest auscultation indicates congestion with productive cough. No signs of respiratory distress are noted. Medical history includes hypertension and type 2 diabetes, managed with amlodipine and metformin, respectively.
+
+Assessment:
+Mr. Ross presents with symptoms consistent with a viral upper respiratory infection. Given his chronic conditions, further evaluation with a cholesterol test is warranted. Antiviral medication is prescribed to manage symptoms, along with continued use of pseudoephedrine for congestion. Follow-up appointment scheduled for next week to review test results and reassess his condition.
+
+Plan:
+1. Order cholesterol test and nasal swab for viral infection confirmation.
+2. Prescribe antiviral medication for symptom management.
+3. Recommend continued use of pseudoephedrine for congestion.
+4. Schedule follow-up appointment for next week to review test results and reassess Mr. Ross's condition.","Conversation: 
+ patient_convo: Physician: Good morning, Mr. Hunter. It's nice to see you today. How can I assist you?
+
+Patient: Hi, Dr. Perry. I've been feeling pretty crummy for the past few days. I've got a runny nose, my throat is sore, and I'm feeling really tired.
+
+Physician: I see. Have you had any fever or shortness of breath?
+
+Patient: No, nothing like that. Just the runny nose, sore throat, and fatigue.
+
+Physician: Okay, that's good. Can you tell me more about your fatigue? Is it something that's been gradually increasing, or did it come on suddenly?
+
+Patient: It's been gradually increasing over the past few days. I've been feeling more tired than usual, and I've been having trouble sleeping at night.
+
+Physician: I understand. Have you noticed any other symptoms, such as headaches or muscle aches?
+
+Patient: Yes, I've had some headaches, and my body feels kind of heavy, like I've been carrying a weight around.
+
+Physician: I see. Have you recently traveled or been exposed to anyone with similar symptoms?
+
+Patient: No, I haven't traveled anywhere, and I don't think anyone in my household has been sick. My wife is also experiencing some cold symptoms, but she's not as bad as me.
+
+Physician: Okay, that's good to know. Have you noticed any differences in your appetite or taste recently?
+
+Patient: No, nothing like that. I've been eating normally, but I've been drinking a lot more fluids than usual.
+
+Physician: That's understandable. Mr. Hunter, based on what you've told me, it sounds like you might be experiencing a viral infection, possibly a common cold. I'd like to run some tests to confirm that and rule out anything else that might be going on. In the meantime, I recommend that you continue to rest, drink plenty of fluids, and use a humidifier to help with your congestion. Does that sound good to you?
+
+Patient: Yes, that sounds good. Thank you, Dr. Perry.
+
+Physician: You're welcome, Mr. Hunter. I'm going to order some lab tests, and we'll get you set up with a follow-up appointment for next week. In the meantime, if your symptoms worsen or you experience any shortness of breath or chest pain, please don't hesitate to reach out to us.
+
+Patient: Will do, thank you.
+
+Physician: Great, we'll get everything set up for you. Have a good day, Mr. Hunter. 
+ SOAP Notes: 
+ Subjective:
+Mr. Ryan Hunter presents with symptoms of a runny nose, sore throat, fatigue, headaches, and feeling of heaviness in the body. He reports that these symptoms have been gradually increasing over the past few days. Denies fever, shortness of breath, changes in appetite or taste. Reports that his spouse is also experiencing cold symptoms.
+
+Objective:
+Patient appears fatigued but alert during the consultation. Vital signs are within normal limits. No signs of respiratory distress. Patient denies recent travel or exposure to sick individuals. No significant findings on physical examination.
+
+Assessment:
+Mr. Hunter is likely experiencing a viral infection, possibly a common cold, based on his symptoms and history. No concerning signs or symptoms for a more serious condition at this time.
+
+Plan:
+Order lab tests to confirm viral infection and rule out other potential causes. Recommend rest, increased fluid intake, and use of a humidifier for symptom relief. Schedule a follow-up appointment for next week to review test results and assess symptom progression. Instruct patient to seek medical attention if symptoms worsen or if he experiences shortness of breath or chest pain. ","SOAP Notes:
+
+Subjective:
+Mr. Ross reports feeling unwell for the past week with symptoms of a runny nose, sore throat, and persistent fatigue. He also mentions a low-grade fever of around 100.3, feeling chilly, and having a thick, yellowish nasal discharge. He complains of a sore throat especially when swallowing, severe headaches, body heaviness, and chest congestion with coughing up mucus. He has been taking pseudoephedrine for the congestion but with little relief. He also reports a decreased appetite but has been drinking plenty of fluids. He denies any shortness of breath or wheezing. His medical history includes hypertension and diabetes, for which he takes amlodipine and metformin respectively.
+
+Objective:
+Patient appears fatigued but alert. No signs of respiratory distress observed. Blood pressure and blood sugar levels reported by the patient as normal. 
+
+Assessment:
+Based on his symptoms, Mr. Ross seems to be suffering from a viral infection, possibly influenza, compounded by his existing conditions of hypertension and diabetes. 
+
+Plan:
+Order a cholesterol test and nasal swab to confirm the presence of a viral infection. Prescribe an antiviral medication for symptom management and recommend the continuation of pseudoephedrine for congestion and cough. Schedule a follow-up appointment for the next week to reassess his condition and review the results of the tests. Advice the patient to maintain hydration and rest, and to monitor his symptoms closely.","Subjective (S): Mr. Ross reports feeling unwell for the past week with symptoms of a constant runny nose, sore throat, tiredness, low-grade fever, and chills. He describes the nasal discharge as thick and yellowish. His throat feels sore especially when swallowing, and he has been experiencing headaches, body aches, and chest congestion. He reports coughing up a lot of mucus. He has been taking pseudoephedrine for congestion with minimal relief. He also reports a decreased appetite but has been keeping up his fluid intake. He denies shortness of breath or wheezing. His past medical history includes hypertension and diabetes, for which he takes amlodipine and metformin respectively. He reports no recent changes in blood sugar levels or blood pressure.
+
+Objective (O): Physical examination yet to be conducted. Patient is alert, oriented, and able to communicate his symptoms clearly. 
+
+Assessment (A): The symptoms suggest a possible viral upper respiratory tract infection. His diabetes and hypertension may make him more susceptible to infections and may complicate his recovery.
+
+Plan (P): 
+1. Order a cholesterol test and a nasal swab to confirm if a viral infection is present.
+2. Prescribe an antiviral medication to help manage the symptoms.
+3. Recommend that Mr. Ross continue taking pseudoephedrine for his congestion and cough.
+4. Schedule a follow-up appointment for the next week to reassess his condition and review the test results.
+5. Advise Mr. Ross to monitor his symptoms closely and to seek medical attention if they worsen or if he experiences new symptoms.
+6. Educate Mr. Ross on the importance of a balanced diet and maintaining good hydration, especially during illness.","{'rouge1': 0.5681818181818183, 'rouge2': 0.2785388127853881, 'rougeL': 0.4, 'rougeLsum': 0.5318181818181819}","{'rouge1': 0.5488565488565489, 'rouge2': 0.27139874739039666, 'rougeL': 0.39501039501039503, 'rougeLsum': 0.5239085239085239}","{'bleu': 0.21326148389186791, 'precisions': [0.5846153846153846, 0.30115830115830117, 0.15891472868217055, 0.07392996108949416], 'brevity_penalty': 1.0, 'length_ratio': 1.04, 'translation_length': 260, 'reference_length': 250}","{'bleu': 0.20538303846307776, 'precisions': [0.5141065830721003, 0.2830188679245283, 0.15457413249211358, 0.07911392405063292], 'brevity_penalty': 1.0, 'length_ratio': 1.276, 'translation_length': 319, 'reference_length': 250}"
+3,"
+Physician: Good morning, Mrs. Taylor. I'm Dr. Rhodes, your primary care physician. How are you feeling today?
+
+Patient: Good morning, Dr. Rhodes. I'm not feeling too well, to be honest. I've been experiencing a persistent cough and my energy levels have been low lately.
+
+Physician: I see. Can you tell me more about your cough? Is it dry or productive? Have you noticed any chest pain or shortness of breath?
+
+Patient: It's a dry cough, mostly, but sometimes I do bring up some mucus. I haven't had any chest pain, but I do feel a bit winded when I exert myself.
+
+Physician: Okay. Have you had any recent travel or been exposed to anyone with similar symptoms?
+
+Patient: No, I haven't traveled recently, and I don't believe anyone in my household has been sick.
+
+Physician: Alright. How long have you been experiencing these symptoms?
+
+Patient: It started about three weeks ago. At first, I thought it was just a cold, but it's persisted longer than I expected.
+
+Physician: I understand. Have you noticed any other symptoms, such as fever, night sweats, or weight loss?
+
+Patient: I did have a low-grade fever a few days ago, but it's since resolved. And no, I haven't experienced any night sweats or weight loss.
+
+Physician: Thank you for letting me know. Now, I'd like to discuss your medical history. You have hypertension and type 2 diabetes mellitus. Are you taking your medications as prescribed?
+
+Patient: Yes, I am. I take my lisinopril and metformin every day.
+
+Physician: Excellent. Have you noticed any changes in your blood sugar control or blood pressure recently?
+
+Patient: Actually, my blood sugar has been a bit higher than usual, and my blood pressure has been a bit lower.
+
+Physician: I see. That's good to know. Have you experienced any other symptoms related to your diabetes or hypertension, such as numbness in your extremities or blurred vision?
+
+Patient: No, I haven't.
+
+Physician: Okay. Mrs. Taylor, based on what you've shared, it's possible that you have a viral infection that's causing your symptoms. I'd like to order a few tests to confirm this and rule out any other potential causes.
+
+Patient: Sure, that makes sense. What kind of tests do you need to run?
+
+Physician: I'd like to order a complete blood count, a respiratory viral panel, and an electrolyte panel. And I'll also prescribe you a course of antiviral medication, just in case it is a viral infection.
+
+Patient: Okay, that sounds good.
+
+Physician: Great. I'll also schedule you for a follow-up appointment in a week's time to review your test results and assess your progress. In the meantime, make sure to drink plenty of fluids and rest as much as possible.
+
+Patient: Thank you, Dr. Rhodes. I appreciate your help.
+
+Physician: You're welcome, Mrs. Taylor. I'll have my nurse come in to take your blood samples and answer any questions you may have. We'll get you feeling better in no time.","SOAP Note:
+
+Subjective:
+Mrs. Taylor presents with a persistent dry cough and low energy levels for the past three weeks. She reports bringing up mucus occasionally and feeling winded with exertion. Denies chest pain, recent travel, or exposure to sick individuals. Reports a low-grade fever that has since resolved. No night sweats or weight loss noted.
+
+Objective:
+Patient appears fatigued but alert during the examination. Vital signs stable. No signs of respiratory distress. Lungs clear to auscultation. No edema noted. Blood pressure slightly lower than usual. Blood sugar levels slightly elevated.
+
+Assessment:
+Likely viral respiratory infection causing Mrs. Taylor's symptoms. Blood work and respiratory viral panel ordered to confirm diagnosis. Antiviral medication prescribed. Blood pressure and blood sugar levels monitored closely due to recent changes.
+
+Plan:
+Order complete blood count, respiratory viral panel, and electrolyte panel. Prescribe antiviral medication. Schedule follow-up appointment in one week to review test results and assess progress. Advise patient to rest, stay hydrated, and monitor blood pressure and blood sugar levels closely. Nurse to take blood samples and address any patient questions.","Conversation: 
+ patient_convo: Physician: Good morning, Mrs. Thomas. How are you feeling today?
+
+Patient: Good morning, Doctor. I've been feeling a bit off lately. I've had this annoying cough for a few weeks, and I've been getting more tired than usual.
+
+Physician: I see. Can you tell me more about your cough? Is it dry or productive? Have you noticed any chest pain or shortness of breath?
+
+Patient: It's a dry cough, mostly. Sometimes I do bring up some mucus, but it's not much. I haven't had any chest pain, but I do feel a bit winded when I walk upstairs or do any light exercise.
+
+Physician: Okay. Have you noticed any other symptoms? Fever, night sweats, or weight loss?
+
+Patient: No, I don't think so. Just the fatigue and the cough. Oh, and sometimes I feel a bit dizzy or lightheaded.
+
+Physician: I understand. Have you had any recent travel or been exposed to anyone with similar symptoms?
+
+Patient: No, I haven't traveled anywhere recently. And as far as I know, no one in my household has been sick.
+
+Physician: Alright. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yes, actually. I've been having trouble falling asleep at night, and I've been feeling a bit more hungry than usual.
+
+Physician: I see. Have you experienced any other symptoms that might be related to your sleep or appetite changes? For example, mood changes, difficulty concentrating, or increased thirst?
+
+Patient: Now that you mention it, I have been feeling a bit down lately. And I have noticed that I've been urinating more often. But other than that, nothing major.
+
+Physician: Thank you for sharing that. Have you had any recent changes in your medications or dosages?
+
+Patient: No, nothing has changed. I'm still taking my hypertension and diabetes medications as prescribed.
+
+Physician: Good. I'm going to order some tests to help us better understand what might be going on. In the meantime, I'd like to schedule a follow-up appointment for next week to discuss the results. Does that sound good to you?
+
+Patient: Sure, that works for me. Thank you, Doctor.
+
+Physician: You're welcome, Mrs. Thomas. We'll get to the bottom of this. 
+ SOAP Notes: 
+ Subjective:
+Mrs. Thomas reports feeling off lately with a persistent dry cough, increased fatigue, occasional mucus production, and feeling winded with light exercise. She denies chest pain, fever, night sweats, or weight loss. Mrs. Thomas also mentions feeling dizzy or lightheaded at times, having trouble falling asleep, increased hunger, feeling down, increased urination, and mild concentration difficulties. She denies recent travel or exposure to sick individuals and states no changes in medications.
+
+Objective:
+Mrs. Thomas appears alert and oriented during the visit. Vital signs are within normal limits. Physical examination reveals no acute distress, clear lung sounds, and no signs of respiratory distress. Mrs. Thomas's weight remains stable.
+
+Assessment:
+Mrs. Thomas presents with a chronic dry cough, fatigue, increased hunger, sleep disturbances, mood changes, and increased urination. Differential diagnoses include respiratory infection, sleep disorder, mood disorder, or metabolic imbalance. Further investigations are warranted to determine the underlying cause.
+
+Plan:
+Order tests including a chest X-ray, complete blood count, comprehensive metabolic panel, and thyroid function tests to evaluate Mrs. Thomas's symptoms. Schedule a follow-up appointment for next week to review test results and adjust management accordingly. Encourage Mrs. Thomas to maintain her current medication regimen and monitor symptoms closely. ","Subjective:
+Mrs. Taylor presents with a persistent dry cough, occasional production of mucus, low energy, and shortness of breath on exertion. She reported a low-grade fever a few days ago which has since resolved. She denies any recent travel or exposure to sick individuals. Mrs. Taylor also mentions her blood sugar has been higher than usual and her blood pressure has been lower. She denies any symptoms related to her diabetes or hypertension, such as numbness or blurred vision.
+
+Objective:
+Mrs. Taylor is alert and oriented. She has a history of hypertension and type 2 diabetes mellitus and is compliant with her medications (lisinopril and metformin). No acute distress is observed. Physical examination is pending.
+
+Assessment:
+Mrs. Taylor's symptoms of persistent cough, low energy, and shortness of breath, along with the recent history of low-grade fever, suggest a possible viral infection. The changes in her blood sugar and blood pressure should also be monitored and managed.
+
+Plan:
+Order a complete blood count, respiratory viral panel, and electrolyte panel to further investigate the cause of Mrs. Taylor's symptoms. Prescribe a course of antiviral medication as a precautionary measure. Schedule a follow-up appointment in a week to review test results and assess her progress. Advise Mrs. Taylor to drink plenty of fluids and get ample rest.","Subjective (S): 
+Mrs. Taylor presents with a persistent cough and low energy levels for the past three weeks. The cough is mostly dry with occasional expectoration. She reports no chest pain but does experience shortness of breath during exertion. She also experienced a brief low-grade fever which has since resolved. No recent travel or exposure to sick individuals. She has a history of hypertension and type 2 diabetes and is compliant with her lisinopril and metformin medications. She reports an increase in her blood sugar and a slight decrease in her blood pressure. No other symptoms related to her diabetes or hypertension.
+
+Objective (O): 
+Patient appears alert and oriented during the consultation. No immediate signs of respiratory distress are observed. The patient's reported symptoms and medical history suggest possible viral infection.
+
+Assessment (A): 
+Mrs. Taylor's symptoms suggest a possible viral infection. However, the persistent nature of her symptoms and her medical history necessitate further testing to confirm this and rule out other potential causes.
+
+Plan (P): 
+1. Order a complete blood count, a respiratory viral panel, and an electrolyte panel.
+2. Prescribe a course of antiviral medication to mitigate potential viral infection.
+3. Schedule a follow-up appointment in one week to review test results and assess progress.
+4. Advise Mrs. Taylor to increase fluid intake and rest as much as possible.
+5. Monitor blood sugar and blood pressure levels in light of reported changes.","{'rouge1': 0.5012531328320802, 'rouge2': 0.24685138539042822, 'rougeL': 0.3408521303258145, 'rougeLsum': 0.4260651629072681}","{'rouge1': 0.5502392344497606, 'rouge2': 0.2932692307692308, 'rougeL': 0.4258373205741627, 'rougeLsum': 0.4688995215311005}","{'bleu': 0.21763070687911878, 'precisions': [0.5059760956175299, 0.26, 0.1566265060240964, 0.10887096774193548], 'brevity_penalty': 1.0, 'length_ratio': 1.1895734597156398, 'translation_length': 251, 'reference_length': 211}","{'bleu': 0.23086297764381014, 'precisions': [0.5054545454545455, 0.28102189781021897, 0.16483516483516483, 0.1213235294117647], 'brevity_penalty': 1.0, 'length_ratio': 1.3033175355450237, 'translation_length': 275, 'reference_length': 211}"
+4,"
+Physician: Good morning, Mr. Kelly. How are you feeling today?
+
+Patient: Good morning, doctor. I've been experiencing some issues with my vision lately. It's been a bit blurry, especially when I'm reading or working on the computer.
+
+Physician: I see. Can you tell me more about what you're experiencing? Is it just blurry vision, or are there any other symptoms like double vision or eye strain?
+
+Patient: It's mostly blurry vision, but I do get some headaches occasionally. They're not too severe, but they're definitely noticeable.
+
+Physician: Okay. Have you noticed any differences in your vision between distance and near objects? For example, do you have trouble seeing things far away or up close?
+
+Patient: It's mostly my near vision that's affected. I have trouble reading texts and emails, and I've been having to hold books and documents closer to my face to see them clearly.
+
+Physician: I understand. Have you experienced any eye discomfort or dryness?
+
+Patient: Yes, my eyes do feel a bit dry sometimes, especially after working on the computer for a long time.
+
+Physician: Mr. Kelly, have you had any recent changes in your environment or routine that could be contributing to your symptoms? For example, have you started a new job or changed your work schedule?
+
+Patient: Well, I did start a new job a few months ago, and I've been working longer hours. Could that be a factor?
+
+Physician: It's possible. Longer work hours could potentially lead to eye strain. Have you tried any eye exercises or resting your eyes during breaks at work?
+
+Patient: I haven't tried anything like that, but I do take breaks to look away from the screen and focus on something else every now and then.
+
+Physician: That's good. Have you noticed any differences in your vision when you're working on the computer versus reading a book or newspaper?
+
+Patient: It's definitely worse when I'm working on the computer. I have to lean in closer to see the text, and my eyes feel more strained after a while.
+
+Physician: I see. Mr. Kelly, I'm going to perform a thorough eye exam to assess your vision and determine the cause of your symptoms. In the meantime, I recommend that you take regular breaks at work to rest your eyes and avoid prolonged exposure to digital screens. I'll also refer you to an ophthalmologist for a consultation to rule out any underlying conditions that may be contributing to your symptoms.
+
+Patient: That sounds good, doctor. Thank you for your help.
+
+Physician: Of course, Mr. Kelly. We'll do our best to get to the bottom of this and find a solution that works for you.","Subjective:
+Mr. Kelly reports experiencing blurry vision, especially when reading or working on the computer. He also mentions occasional headaches and dryness in his eyes. Symptoms are more pronounced with near vision tasks, such as reading texts and emails. He started a new job a few months ago and has been working longer hours.
+
+Objective:
+Mr. Kelly presents with no signs of acute distress. Visual acuity testing reveals decreased near vision. Pupils are equal, round, and reactive to light. Eye exam shows mild dryness and no other abnormalities. Blood pressure is within normal limits at 120/80 mmHg. Weight is stable at 185 lbs.
+
+Assessment:
+Mr. Kelly is experiencing blurry vision and eye strain, likely due to prolonged screen time at work. His symptoms are consistent with digital eye strain. No significant underlying conditions are suspected at this time. Referral to an ophthalmologist is recommended for further evaluation and management.
+
+Plan:
+1. Perform a comprehensive eye exam to assess visual acuity and eye health.
+2. Recommend regular breaks and eye exercises to reduce eye strain at work.
+3. Refer Mr. Kelly to an ophthalmologist for a consultation and further management.
+4. Follow up with Mr. Kelly after the ophthalmology appointment to discuss findings and treatment options.
+5. Educate Mr. Kelly on the importance of eye health and preventive measures to reduce digital eye strain.","Conversation: 
+ patient_convo: Physician: Good morning, Mr. Ramos. It's a pleasure to meet you. How can I assist you today?
+
+Patient: Hi, Dr. Hansen. I've been experiencing some issues with my vision lately. I've had trouble reading and driving at night, and my eyes have been feeling tired and strained. It's been getting worse over the past few months.
+
+Physician: I see. Have you noticed any other symptoms, such as blurry vision, double vision, or eye pain?
+
+Patient: Yes, my vision has been pretty blurry, especially in low light environments. I haven't noticed any double vision, but my eyes do feel tired and sore.
+
+Physician: Have you had any recent changes in your environment or habits that could be contributing to your symptoms? For example, have you started using a computer or digital device more frequently?
+
+Patient: Well, I did get a new job a few months ago that requires me to use a computer all day. And I've also been spending more time watching TV at night. Could that be the cause?
+
+Physician: It's possible. Prolonged use of digital devices can certainly contribute to eye strain. Have you tried taking breaks to rest your eyes or adjusting the display settings on your computer and TV?
+
+Patient: I haven't been taking breaks as often as I should, but I have tried adjusting the display settings. It doesn't seem to make a big difference, though.
+
+Physician: I understand. Have you experienced any other symptoms, such as headaches, eye twitching, or sensitivity to light?
+
+Patient: Yes, I've had some headaches, especially after working on the computer for a long time. And my eyes do feel sensitive to light, especially in the morning when I first wake up.
+
+Physician: I see. Have you had any recent changes in your medical history or medications that could be contributing to your symptoms?
+
+Patient: Well, I was diagnosed with hypertension and diabetes a few years ago, and I've been taking medication for those conditions. But other than that, nothing has changed recently.
+
+Physician: Okay, that's helpful to know. Have you had any eye problems in the past, such as cataracts or glaucoma?
+
+Patient: No, nothing like that. But my mom did have glaucoma, so I'm a bit concerned about that.
+
+Physician: That's understandable. We'll definitely want to take a closer look at your eyes and rule out any potential issues. In the meantime, I recommend that you start taking regular breaks to rest your eyes, especially when using digital devices. Try following the 20-20-20 rule: every 20 minutes, look away from your screen and focus on something 20 feet away for 20 seconds. Additionally, I'd like to refer you to an optometrist for a comprehensive eye exam. We'll also schedule a follow-up appointment for you to come back and see me after the eye exam. Sound good?
+
+Patient: That sounds great, thank you. I'll make sure to follow the 20-20-20 rule and get in touch with the optometrist right away.
+
+Physician: Excellent. We'll also make sure to schedule your follow-up appointment before you leave today. Thank you for bringing this to my attention, Mr. Ramos. I'm confident that we can figure out what's going on and get you the help you need. 
+ SOAP Notes: 
+ Subjective:
+Mr. Ramos presents with complaints of vision issues, including blurry vision, eye strain, sensitivity to light, and headaches, particularly after prolonged computer use. He mentions that these symptoms have been worsening over the past few months and that he has not experienced any double vision or eye pain. Mr. Ramos attributes his vision problems to his new job, which requires extensive computer use, and increased TV watching at night. He also expresses concern about his family history of glaucoma.
+
+Objective:
+During the examination, Mr. Ramos appears alert and engaged. He reports no other significant symptoms or changes in his medical history or medications. His vital signs are within normal limits. Mr. Ramos' eye exam reveals no obvious abnormalities, but further evaluation by an optometrist is recommended due to his symptoms and family history.
+
+Assessment:
+Based on Mr. Ramos' subjective complaints and objective findings, it is likely that his vision issues are related to digital eye strain. However, given his family history of glaucoma, further evaluation by an optometrist is warranted to rule out any underlying eye conditions. Mr. Ramos is proactive in seeking help and following recommendations for eye care.
+
+Plan:
+Mr. Ramos will be referred to an optometrist for a comprehensive eye exam to assess his vision and screen for any potential eye conditions. In the meantime, he is advised to follow the 20-20-20 rule to reduce eye strain and take regular breaks when using digital devices. A follow-up appointment will be scheduled to review the optometrist's findings and discuss further management options. Additionally, Mr. Ramos will be reminded to stay up to date on his vaccinations and screenings, including the flu vaccine and colorectal cancer screening. ","SOAP Notes:
+
+Subjective:
+Mr. Kelly reports experiencing blurry vision, particularly when reading or working on the computer. He also experiences occasional headaches, which are not severe but noticeable. The patient reports more difficulty with near vision, needing to hold objects closer to his face for clear visibility. He also reports dry eyes, particularly after long periods of using the computer. He recently started a new job which involves longer work hours, which he believes may be contributing to his symptoms.
+
+Objective:
+Mr. Kelly appears alert and communicative. He reports that his vision problems are more pronounced when working on a computer, needing to lean closer to see the text clearly, and experiencing more eye strain after prolonged use. There are no visible signs of eye abnormalities or distress during the conversation.
+
+Assessment:
+Based on Mr. Kelly's reports, it seems he is suffering from computer vision syndrome or digital eye strain. His symptoms include blurry vision, dry eyes, and headaches, which are common signs of this condition. His recent change in work routine with increased screen time seems to be a significant contributing factor. However, a comprehensive eye examination is necessary to rule out other potential causes and underlying conditions.
+
+Plan:
+Mr. Kelly is recommended to undergo a thorough eye examination to evaluate the extent of his vision problems and identify any potential underlying conditions. He will be referred to an ophthalmologist for further consultation. In the meantime, he is advised to take frequent breaks at work, use the 20-20-20 rule (every 20 minutes, look at something 20 feet away for 20 seconds), and avoid prolonged exposure to digital screens. He is also advised to start incorporating eye exercises into his daily routine and to consider using artificial tears to alleviate dry eyes. A follow-up appointment will be scheduled to discuss the results of the eye examination and formulate a personalized treatment plan.","Subjective (S): 
+Mr. Kelly reports experiencing blurry vision, especially when reading or working on the computer. He also reports occasional headaches and eye dryness, particularly after long hours of computer use. He notes that symptoms are most pronounced when using the computer and that his near vision appears to be more affected. He recently started a new job and has been working longer hours.
+
+Objective (O): 
+The patient appears alert and oriented during the consultation. He reports no other symptoms beyond those related to his vision and occasional headaches. No physical examination was conducted during this conversation; however, the physician plans to perform a thorough eye examination.
+
+Assessment (A): 
+Mr. Kelly's symptoms suggest possible computer vision syndrome or presbyopia, both of which can be exacerbated by prolonged computer use and insufficient breaks. Further examination is required to confirm the diagnosis and rule out other potential causes such as underlying eye conditions.
+
+Plan (P): 
+1. Perform a comprehensive eye examination to assess Mr. Kelly's vision and ascertain the cause of his symptoms. 
+2. Refer Mr. Kelly to an ophthalmologist for further consultation and possible treatment options.
+3. Advise Mr. Kelly to take regular breaks at work to rest his eyes and avoid prolonged exposure to digital screens.
+4. Monitor Mr. Kelly's symptoms and adjust the treatment plan as needed.","{'rouge1': 0.4666666666666667, 'rouge2': 0.17472118959107807, 'rougeL': 0.27777777777777773, 'rougeLsum': 0.39999999999999997}","{'rouge1': 0.5258426966292135, 'rouge2': 0.2437923250564334, 'rougeL': 0.34606741573033706, 'rougeLsum': 0.503370786516854}","{'bleu': 0.1459289722239132, 'precisions': [0.4222222222222222, 0.17827298050139276, 0.09776536312849161, 0.06162464985994398], 'brevity_penalty': 1.0, 'length_ratio': 1.3636363636363635, 'translation_length': 360, 'reference_length': 264}","{'bleu': 0.23978311180668488, 'precisions': [0.5465116279069767, 0.2918287937743191, 0.17578125, 0.12941176470588237], 'brevity_penalty': 0.9770125183673897, 'length_ratio': 0.9772727272727273, 'translation_length': 258, 'reference_length': 264}"
+5,"
+Physician: Hi, Kitty. How are you feeling today?
+
+Patient: Hi, Dr. Cox. I've been feeling pretty miserable lately. I've had a constant runny nose, sore throat, and my body aches all over. I also have a mild fever that comes and goes.
+
+Physician: I see. Have you experienced any other symptoms, such as coughing or shortness of breath?
+
+Patient: Yes, I've had a persistent cough, especially in the mornings, and sometimes I feel like I can't catch my breath.
+
+Physician: Okay. How long have you been experiencing these symptoms?
+
+Patient: It started about a week ago, and it's been getting worse every day.
+
+Physician: Have you tried any over-the-counter medications or remedies?
+
+Patient: Yes, I've been taking acetaminophen and ibuprofen for the fever and body aches, but they don't seem to be helping much.
+
+Physician: I understand. Have you had any recent travel or been exposed to anyone with similar symptoms?
+
+Patient: No, I haven't traveled recently, and I don't think anyone in my household has been sick.
+
+Physician: Okay. Have you noticed any other unusual symptoms, such as headaches, fatigue, or swollen lymph nodes?
+
+Patient: Yes, I've been feeling really tired and my lymph nodes in my neck feel swollen.
+
+Physician: I see. Based on what you've told me, it sounds like you might have a viral infection, possibly the common cold or flu. We'll need to run some tests to confirm the diagnosis and rule out any other potential causes. In the meantime, I recommend that you continue taking the over-the-counter medications as needed for your symptoms, and I'll prescribe an antiviral medication to help manage your symptoms.
+
+Patient: Okay, that sounds good. Thank you, Dr. Cox.
+
+Physician: You're welcome, Kitty. We'll get you feeling better in no time. I'll have the nurse come in and take a swab for the rapid flu test, and we'll also draw some blood to check your white blood cell count and rule out any other infections. In the meantime, make sure to rest, stay hydrated, and avoid close contact with others to prevent the spread of the infection. We'll have the results of the tests back soon, and we'll go from there.
+
+Patient: Thank you, Dr. Cox. I appreciate your help.
+
+Physician: You're welcome, Kitty. We'll get you feeling better soon.","Subjective:
+Kitty Holmes presents with symptoms of a constant runny nose, sore throat, body aches, mild fever, persistent cough, shortness of breath, fatigue, and swollen lymph nodes in the neck. Symptoms started a week ago and have been progressively worsening. Over-the-counter medications (acetaminophen and ibuprofen) have provided minimal relief. No recent travel or exposure to sick individuals reported.
+
+Objective:
+Patient appears fatigued but alert during the examination. Vital signs are within normal limits. Physical examination reveals swollen lymph nodes in the neck. No signs of respiratory distress noted. Patient's medical history indicates no chronic conditions or allergies. Current medications include acetaminophen and ibuprofen for symptom management.
+
+Assessment:
+Based on the patient's symptoms and physical examination, Kitty Holmes likely has a viral infection, possibly the common cold or flu. Further diagnostic tests, including a rapid flu test and blood work to check white blood cell count, are recommended to confirm the diagnosis and rule out other infections. Antiviral medication will be prescribed to manage symptoms.
+
+Plan:
+1. Perform a rapid flu test and blood work to confirm the diagnosis.
+2. Prescribe antiviral medication for symptom management.
+3. Advise the patient to rest, stay hydrated, and avoid close contact with others to prevent the spread of infection.
+4. Follow up with the patient to discuss test results and adjust treatment plan accordingly.
+5. Educate the patient on the importance of completing the prescribed medication regimen and seeking medical attention if symptoms worsen or new symptoms develop.","Conversation: 
+ patient_convo: Physician: Good morning, Ms. Wagner. How are you feeling today?
+
+Patient: Hi, Dr. Stewart. I've been feeling pretty miserable lately. I've had this constant cough that won't go away, and my chest feels tight all the time. It's like there's a band around my chest that I can't shake off.
+
+Physician: I see. Have you noticed any shortness of breath or wheezing?
+
+Patient: Yes, especially when I exert myself or bend over. It's like I can't catch my breath. And sometimes, I feel like I'm choking on phlegm.
+
+Physician: I understand. Have you experienced any seasonal symptoms, such as sneezing, congestion, or itchy eyes?
+
+Patient: Yes, definitely. My symptoms seem to worsen during the spring and fall. I've been sneezing a lot and my eyes get itchy and watery.
+
+Physician: That helps to confirm our suspicion of respiratory allergies. Have you noticed any triggers that make your symptoms worse, such as dust, pollen, or pets?
+
+Patient: Well, I do have a cat at home, and sometimes I feel like my symptoms are worse when I'm around her. But I've never really thought much about it until now.
+
+Physician: That's a good point. We'll definitely want to consider that as we move forward. Have you noticed any other symptoms, such as sinus pressure or headaches?
+
+Patient: Yes, I get sinus headaches quite often, especially when my allergies are acting up. And my nose is always stuffy.
+
+Physician: I see. Have you tried any over-the-counter medications or remedies for your symptoms?
+
+Patient: Yes, I've tried antihistamines and decongestants, but they don't seem to do much for me.
+
+Physician: Understood. Have you noticed any other health changes or concerns?
+
+Patient: Well, I have been feeling a bit tired lately, and my blood pressure has been creeping up. Oh, and I'm due for my colonoscopy and mammogram.
+
+Physician: Excellent. We'll make sure to schedule those procedures for you. Now, let's take a closer look at your medications. Can you tell me what you're currently taking, and when you last had your inhaler?
+
+Patient: Sure. I'm taking albuterol and fluticasone, and I last used my inhaler about an hour ago.
+
+Physician: Great. I think we have a good understanding of your symptoms and medical history. Based on what you've shared, it sounds like we're dealing with respiratory allergies and hypertension. We'll need to do some tests to confirm the diagnosis and rule out any other potential issues.
+
+Patient: Okay, that makes sense. What kind of tests will I need to undergo?
+
+Physician: We'll start with a spirometry test to assess your lung function and a chest X-ray to rule out any infections or structural issues. We may also consider an allergy test to determine the specific allergens that are causing your symptoms.
+
+Patient: That sounds like a good plan. What are the next steps?
+
+Physician: Once we have the results of the tests, we can develop a treatment plan tailored to your needs. We may need to adjust your medications or recommend allergen immunotherapy to help manage your symptoms long-term. We'll also schedule your colonoscopy and mammogram as soon as possible.
+
+Patient: Okay, I appreciate your help, Dr. Stewart. I feel like I'm in good hands.
+
+Physician: Of course, Ms. Wagner. We'll work together to get you feeling better soon. 
+ SOAP Notes: 
+ Subjective:
+Ms. Wagner reports feeling miserable with a constant cough and tightness in her chest. She experiences shortness of breath, wheezing, and difficulty catching her breath, especially with exertion. She notes seasonal symptoms worsening in spring and fall, including sneezing, itchy eyes, and watery eyes. She suspects her cat may be a trigger for her symptoms. Ms. Wagner also mentions sinus headaches, nasal congestion, fatigue, and increasing blood pressure. She is due for a colonoscopy and mammogram.
+
+Objective:
+Ms. Wagner presents with respiratory allergy symptoms, including cough, wheezing, and chest tightness. She has sinus headaches, nasal congestion, and itchy/watery eyes. Vital signs are stable, and physical examination reveals no acute distress. Lung function test results show 85% predicted, and chest X-ray is clear. Eosinophil count is elevated at 12%.
+
+Assessment:
+Ms. Wagner is likely experiencing respiratory allergies triggered by seasonal allergens and possibly her cat. She also has hypertension and is due for preventive screenings. Further testing, including allergy testing, is recommended to confirm the diagnosis. Treatment may involve adjusting current medications and considering allergen immunotherapy for long-term management.
+
+Plan:
+1. Schedule spirometry test, chest X-ray, and allergy testing to confirm diagnosis.
+2. Monitor blood pressure and consider adjusting hypertension medication if needed.
+3. Schedule colonoscopy and mammogram as per recommendations.
+4. Develop a tailored treatment plan based on test results, potentially including allergen immunotherapy.
+5. Follow up with Ms. Wagner to discuss test results and treatment options. ","SOAP Notes:
+
+Subjective:
+Patient, Kitty, reports feeling miserable with a constant runny nose, sore throat, body aches, and intermittent mild fever. She also complains of a persistent cough, especially in the mornings, and occasional shortness of breath. Symptoms began about a week ago and have progressively worsened. Over-the-counter medications including acetaminophen and ibuprofen have provided minimal relief. She also reports fatigue and swollen lymph nodes in her neck. No recent travel or exposure to sick individuals. 
+
+Objective:
+Upon examination, Kitty presents with symptoms suggestive of a viral infection, possibly the common cold or flu. Fever, runny nose, sore throat, body aches, persistent cough, shortness of breath, fatigue, and swollen lymph nodes in the neck were noted.
+
+Assessment:
+Based on the symptoms and patient's report, a viral infection, possibly the common cold or flu, is suspected. Further testing is required to confirm the diagnosis and rule out other potential causes.
+
+Plan:
+1. Run tests including a rapid flu test and a white blood cell count test to confirm diagnosis and rule out other infections.
+2. Instruct patient to continue taking over-the-counter medications as needed for symptoms.
+3. Prescribe an antiviral medication to help manage symptoms.
+4. Instruct patient to rest, stay hydrated, and avoid close contact with others to prevent the spread of the infection.
+5. Follow up with Kitty to discuss test results and further treatment options.","Subjective (S): 
+Kitty reports experiencing a constant runny nose, sore throat, body aches, mild intermittent fever, persistent cough, shortness of breath, fatigue, and swollen lymph nodes. These symptoms started a week ago and have been progressively worsening. She has been taking over-the-counter acetaminophen and ibuprofen for the fever and body aches, with no significant relief. She reports no recent travel or exposure to sick contacts.
+
+Objective (O): 
+The patient appears fatigued and notes swollen lymph nodes in the neck. She reports a persistent cough and occasional shortness of breath. She also reports a lack of efficacy in over-the-counter medications for the fever and body aches.
+
+Assessment (A): 
+Based on Kitty's reported symptoms, she may have a viral infection, possibly the common cold or flu. However, further testing is needed to confirm this diagnosis and rule out other potential causes.
+
+Plan (P): 
+1. Run a rapid flu test and take a blood sample to check her white blood cell count and rule out other infections.
+2. Prescribe an antiviral medication for symptom management.
+3. Continue over-the-counter medications as needed for her symptoms.
+4. Advise Kitty to rest, stay hydrated, and avoid close contact with others to prevent the spread of the infection.
+5. Follow up with Kitty once test results are available to further discuss treatment strategies based on the diagnosis.","{'rouge1': 0.675, 'rouge2': 0.43933054393305443, 'rougeL': 0.49583333333333335, 'rougeLsum': 0.6666666666666667}","{'rouge1': 0.6652631578947368, 'rouge2': 0.40169133192389006, 'rougeL': 0.5221052631578947, 'rougeLsum': 0.6484210526315789}","{'bleu': 0.4211525939338481, 'precisions': [0.7142857142857143, 0.5147058823529411, 0.3726937269372694, 0.2777777777777778], 'brevity_penalty': 0.9534969548334766, 'length_ratio': 0.9545454545454546, 'translation_length': 273, 'reference_length': 286}","{'bleu': 0.3878210794003517, 'precisions': [0.7045454545454546, 0.467680608365019, 0.3473282442748092, 0.27586206896551724], 'brevity_penalty': 0.9200444146293233, 'length_ratio': 0.9230769230769231, 'translation_length': 264, 'reference_length': 286}"
+6,"
+Physician: Good morning, Dolores. How are you feeling today?
+
+Patient: Hi, Dr. Butler. I've been doing a bit better lately, but I still have some days where my pain is pretty intense.
+
+Physician: I see. Can you tell me more about your pain? What's the intensity like on a scale of one to ten?
+
+Patient: It's usually around a six or seven, but it can spike to a nine or ten when I overdo it.
+
+Physician: And what activities trigger these flare-ups?
+
+Patient: Mainly bending or twisting, like when I'm cooking or trying to pick up something heavy.
+
+Physician: I understand. Have you noticed any other symptoms, such as weakness, numbness, or tingling in your limbs?
+
+Patient: Yes, sometimes my legs feel weak, and I get a tingling sensation in my feet.
+
+Physician: Okay. Have you experienced any recent weight gain or loss?
+
+Patient: A little bit of weight gain, maybe five pounds or so.
+
+Physician: And how's your sleep been? Do you have trouble falling or staying asleep?
+
+Patient: I've been having trouble falling asleep lately. I'll lie awake for a bit, feeling restless.
+
+Physician: I see. Have you noticed any changes in your mood or energy levels?
+
+Patient: Yes, I've been feeling a bit down and fatigued, especially when my pain is worse.
+
+Physician: Dolores, I'm going to examine your joints and muscles now. Can you please stand up and walk around the room for me?
+
+Patient: Sure.
+
+Physician: (After observing Dolores's movements) I notice you have a bit of a limp and some stiffness in your gait. Can you tell me more about your physical therapy regimen?
+
+Patient: I've been seeing a physical therapist, Mr. Dunn, twice a week. We've been working on exercises to strengthen my core and legs, as well as some stretching.
+
+Physician: That's great. Have you noticed any improvements since starting physical therapy?
+
+Patient: Yes, definitely. My balance has improved, and I can walk a bit further without getting tired.
+
+Physician: Excellent. What about your pain medication? Have you experienced any side effects or concerns?
+
+Patient: No, not really. I've been taking them as directed, and they seem to be helping.
+
+Physician: I'm glad to hear that. Dolores, based on what you've shared with me today, it sounds like we're on the right track with your treatment plan. Let's continue with the physical therapy and pain management strategy for now. I'll also order some additional blood work to rule out any underlying conditions that may be contributing to your symptoms.
+
+Patient: Sounds good to me. Thank you, Dr. Butler.
+
+Physician: Of course, Dolores. We'll monitor your progress and adjust your plan as needed. I'll have my nurse schedule a follow-up appointment for you in a few weeks.","Subjective:
+Dolores reports feeling a bit better lately but still experiences intense pain, rated around a six or seven on a scale of one to ten, with occasional spikes to a nine or ten. She notes that bending or twisting triggers flare-ups, and she experiences weakness, numbness, and tingling in her legs and feet. Dolores has gained approximately five pounds and has trouble falling asleep, feeling restless at night. She also mentions feeling fatigued and down, especially when her pain is worse.
+
+Objective:
+Upon examination, Dolores exhibits a limp and stiffness in her gait. She has been compliant with her physical therapy regimen, showing improvements in balance and endurance. There are no apparent side effects from her pain medication. Dolores has been managing her pain well but continues to have occasional flare-ups.
+
+Assessment:
+Dolores continues to experience chronic pain and osteoarthritis symptoms, with occasional flare-ups impacting her daily activities. She has shown improvement in mobility and balance with physical therapy. Additional blood work will be ordered to rule out any underlying conditions contributing to her symptoms.
+
+Plan:
+Continue with the current treatment plan, including physical therapy sessions with Mr. Dunn and pain management strategies. Monitor Dolores's progress closely and adjust the plan as needed. Schedule a follow-up appointment in a few weeks to reassess her condition and discuss any further interventions.","Conversation: 
+ patient_convo: Physician: Good morning, Mr. Taylor. How are you feeling today?
+
+Patient: Good morning, Dr. Simpson. I've been feeling a bit better lately, but still experiencing some discomfort in my back and legs.
+
+Physician: I see. Can you describe the type of pain you're experiencing? Is it sharp, dull, or radiating?
+
+Patient: It's a dull ache, mostly in my lower back, but sometimes it feels like it's spreading down to my legs. It's not too severe, but it's definitely there.
+
+Physician: Okay, and how long have you been experiencing this pain?
+
+Patient: On and off for the past few years, but it's been more consistent over the past six months or so.
+
+Physician: I understand. Have you noticed any factors that exacerbate or relieve the pain?
+
+Patient: Yeah, if I sit or stand for too long, it tends to get worse. Sometimes, if I'm lying down for a while, it feels a bit better.
+
+Physician: That's helpful to know. Have you experienced any weakness, numbness, or tingling sensations in your legs or feet?
+
+Patient: A little bit of numbness in my left foot, but it's not too significant.
+
+Physician: Okay. Have you had any recent changes in your bowel movements or bladder habits?
+
+Patient: No, nothing significant.
+
+Physician: Good. Have you experienced any fever, chills, or night sweats?
+
+Patient: No, I don't think so.
+
+Physician: Alright. I noticed that your lipid panel results came back, and your LDL levels are a bit elevated. Have you noticed any muscle weakness or muscle cramps?
+
+Patient: Now that you mention it, I have been feeling a bit of muscle fatigue lately. But I just thought it was from the exercise routine the physical therapist has me on.
+
+Physician: That's a good point. We'll definitely want to keep an eye on that. How has your exercise routine been going? Are you still seeing Ms. Thompson for physical therapy?
+
+Patient: Yes, I'm still seeing her. She's been great, and I think it's really helping.
+
+Physician: That's wonderful. Have you noticed any shortness of breath or chest pain?
+
+Patient: No, nothing like that.
+
+Physician: Okay. I'm going to recommend that we continue monitoring your lipid levels and also schedule a follow-up appointment with Ms. Thompson to assess your progress. We'll also make sure to schedule your colonoscopy before the due date. In the meantime, let's consider adjusting your medication regimen to address your chronic pain. Have you had any side effects from the current medications?
+
+Patient: No, nothing too significant. Just a bit of stomach upset sometimes.
+
+Physician: Alright. I'm thinking of adding a medication that can help with chronic pain, but also keep in mind the potential side effects. Let's discuss this further and make a decision together. Does that sound good to you, Mr. Taylor?
+
+Patient: Yes, that sounds great. Thank you, Dr. Simpson.
+
+
+This clinical dialogue captures the essential details of the patient's subjective experiences, enabling the physician to gain a comprehensive understanding of the patient's condition. The conversation covers various aspects of the patient's symptoms, medical history, and current treatment plan, providing a solid foundation for the subsequent SOAP notes. The physician's inquiries and the patient's responses offer valuable information that will inform the decision-making process and guide the management of the patient's care. 
+ SOAP Notes: 
+ Subjective:
+Mr. Taylor reports feeling a bit better lately but is still experiencing discomfort in his lower back and legs. He describes the pain as a dull ache that sometimes spreads down to his legs. The pain has been consistent over the past six months, exacerbated by prolonged sitting or standing. He notes some numbness in his left foot but denies weakness, tingling, changes in bowel or bladder habits, fever, chills, or night sweats. Mr. Taylor mentions feeling muscle fatigue and stomach upset as potential side effects of his current medications.
+
+Objective:
+Mr. Taylor presents as alert and cooperative during the appointment. He demonstrates good insight into his symptoms and treatment plan. Vital signs are within normal limits. Physical examination reveals no significant findings. Lipid panel results show elevated LDL levels, and Mr. Taylor reports improvement in strength and flexibility with his current exercise regimen under the guidance of Ms. Thompson.
+
+Assessment:
+Mr. Taylor is managing chronic pain in his lower back and legs, with some associated muscle fatigue. His lipid panel indicates elevated LDL levels, potentially related to his current medication regimen. He is compliant with his exercise routine and physical therapy sessions, showing improvement in strength and flexibility. Adjustments to his medication regimen may be necessary to address his chronic pain while monitoring for side effects.
+
+Plan:
+1. Schedule a follow-up appointment with Ms. Thompson for a progress assessment of the exercise regimen.
+2. Monitor lipid levels and consider adjusting the medication regimen to address chronic pain while minimizing side effects.
+3. Schedule a colonoscopy before the due date of 12/01/2023.
+4. Educate Mr. Taylor on the importance of monitoring for potential side effects of the new medication.
+5. Encourage Mr. Taylor to continue with his current exercise regimen and physical therapy sessions for ongoing management of chronic pain. ","Subjective:
+Dolores reports that although she is feeling somewhat better, she continues to experience pain that she rates as 6-7 out of 10 on average and up to 9-10 during flare-ups. She identifies bending, twisting, and lifting heavy objects as triggers for her pain. Dolores also notes occasional weakness in her legs and tingling in her feet. Additional symptoms include trouble falling asleep, feelings of restlessness, mood changes, and fatigue. She has gained approximately five pounds recently.
+
+Objective:
+Upon physical examination, Dolores appears to have a slight limp and stiffness in her gait. She is actively participating in a physical therapy regimen, which includes exercises to strengthen her core and legs and stretching. She reports improvements in balance and increased endurance for walking. Dolores is taking prescribed pain medication as directed and has not reported any side effects.
+
+Assessment:
+Dolores is experiencing persistent pain, which appears to be somewhat managed by her combination of physical therapy and pain medication. Additional symptoms, including leg weakness, foot tingling, sleep disturbances, mood changes, and fatigue, suggest that there may be underlying conditions contributing to her overall health status. The recent weight gain may also be a relevant factor.
+
+Plan:
+1. Continue current treatment plan of physical therapy and pain medication.
+2. Order additional blood work to rule out any underlying conditions that may be contributing to her symptoms.
+3. Monitor Dolores' progress and adjust the treatment plan as necessary based on her feedback and lab results.
+4. Schedule a follow-up appointment within a few weeks to reassess Dolores' condition.
+5. Educate Dolores on the importance of maintaining her physical therapy regimen and taking her medication as directed.
+6. Monitor Dolores' weight and discuss any necessary dietary or lifestyle changes.","Subjective (S): 
+Dolores reports ongoing pain which can be intense some days, rating it around six or seven out of ten, with spikes to nine or ten during certain activities. She identifies bending or twisting, like when cooking or lifting heavy objects, as triggering these pain flare-ups. She also reports weakness in her legs and a tingling sensation in her feet. Dolores has gained a slight amount of weight recently (approximately five pounds) and has been experiencing difficulty falling asleep. She also expresses feelings of fatigue and low mood, especially on days when her pain is worse. Dolores has been seeing a physical therapist twice a week, doing exercises to strengthen her core and legs, and reports improvements in her balance and walking endurance.
+
+Objective (O): 
+Upon physical examination, Dolores presents with a limp and some stiffness in her gait. She does not report any side effects from her pain medication and states that they seem to be helping. 
+
+Assessment (A): 
+Dolores's symptoms and physical presentation suggest that while there have been improvements, her pain management strategy may need to be reviewed. Her difficulty sleeping, weight gain, and low mood may indicate some level of chronic pain-related stress or depression. The reported leg weakness and tingling sensation in her feet may indicate potential neurological implications.
+
+Plan (P): 
+1. Continue current physical therapy regimen and pain management strategy. 
+2. Order additional blood work to rule out any underlying conditions that may be contributing to Dolores's symptoms.
+3. Monitor her progress and make adjustments to her treatment plan as necessary.
+4. Schedule a follow-up appointment in a few weeks to reassess her condition.
+5. Consider consulting with a pain management therapist or psychologist to address possible chronic pain-related stress or depression. 
+6. Consider consulting with a neurologist if leg weakness and tingling persist or worsen.","{'rouge1': 0.5581395348837209, 'rouge2': 0.26459143968871596, 'rougeL': 0.3488372093023256, 'rougeLsum': 0.49224806201550386}","{'rouge1': 0.5794392523364486, 'rouge2': 0.28142589118198874, 'rougeL': 0.40373831775700936, 'rougeLsum': 0.5345794392523365}","{'bleu': 0.20400549512692687, 'precisions': [0.5105105105105106, 0.28012048192771083, 0.14803625377643503, 0.08181818181818182], 'brevity_penalty': 1.0, 'length_ratio': 1.3266932270916334, 'translation_length': 333, 'reference_length': 251}","{'bleu': 0.18982490256876763, 'precisions': [0.5071225071225072, 0.26, 0.1318051575931232, 0.07471264367816093], 'brevity_penalty': 1.0, 'length_ratio': 1.3984063745019921, 'translation_length': 351, 'reference_length': 251}"
+7,"
+Physician: Good morning, Mr. Webb. I'm Dr. Thompson, your primary care provider. I see that you've been experiencing some respiratory issues lately. Can you tell me more about your symptoms?
+
+Patient: Yes, doctor. I've had this cough for a few weeks now, and it just won't go away. It's been getting worse, especially at night. I've also noticed I've been feeling really short of breath, even when I'm just sitting still. And I've had this tightness in my chest that won't go away.
+
+Physician: I see. Have you experienced any fever or chills?
+
+Patient: Yes, doctor. I've had a low-grade fever for the past few days, and I've been feeling cold all the time.
+
+Physician: Okay. Can you tell me more about your cough? Is it dry or productive? Have you noticed any blood in your mucus?
+
+Patient: It's a dry cough, mostly. Sometimes I do bring up some mucus, but it's not much. And no, I haven't seen any blood.
+
+Physician: All right. How long have you been experiencing this tightness in your chest? Is it a sharp pain or more of a dull ache?
+
+Patient: It's a dull ache, mostly. It's been on and off for a few weeks, but it's been getting worse lately.
+
+Physician: I see. Have you had any other symptoms, like fatigue or muscle weakness?
+
+Patient: Yes, doctor. I've been feeling really tired all the time, and my muscles have been feeling weak. Especially in my legs.
+
+Physician: Okay. Have you noticed any swelling in your legs or feet?
+
+Patient: No, doctor. Not that I've noticed.
+
+Physician: All right. Can you tell me about your smoking history? How much do you smoke, and how long have you been smoking?
+
+Patient: I smoke about a pack a day, and I've been smoking for about 35 years now.
+
+Physician: I see. And do you drink alcohol?
+
+Patient: Yes, doctor. I'm a social drinker. I have a few beers with friends on the weekends.
+
+Physician: Okay. Mr. Webb, based on what you've told me, it sounds like you might have developed a respiratory infection. I'd like to order a chest X-ray to rule out pneumonia. In the meantime, I'm going to prescribe you an antibiotic to help clear up the infection. I also want to schedule a follow-up appointment for next week to reassess your symptoms and see how you're responding to the medication. Does that sound good to you?
+
+Patient: Yes, doctor. That sounds good. Thank you.
+
+Physician: Great. I'm going to have my nurse come in and take your vital signs and get you set up with the antibiotic. We'll have the X-ray done today, and I'll call you with the results as soon as they're available. Thanks for coming in today, Mr. Webb.
+
+Patient: Thank you, doctor.","Subjective:
+Mr. Webb presents with a persistent dry cough, worsening at night, accompanied by shortness of breath, chest tightness, low-grade fever, and feeling cold. He reports fatigue, muscle weakness, and a dull ache in his chest. Denies blood in mucus, swelling in legs or feet. Smoking history includes one pack per day for 35 years, and social alcohol use on weekends.
+
+Objective:
+Mr. Webb appears fatigued but alert during the examination. Vital signs are stable. Respiratory exam reveals decreased breath sounds and mild wheezing. No swelling noted in legs or feet. Chest X-ray ordered to rule out pneumonia.
+
+Assessment:
+Mr. Webb likely has a respiratory infection based on symptoms and history. Chest X-ray ordered for further evaluation. Antibiotic prescribed to address the infection. Follow-up appointment scheduled for next week to monitor response to treatment.
+
+Plan:
+1. Order chest X-ray to rule out pneumonia.
+2. Prescribe antibiotic for respiratory infection.
+3. Schedule follow-up appointment for next week.
+4. Monitor response to treatment and adjust plan as needed.
+5. Educate patient on smoking cessation and lifestyle modifications to improve respiratory health.","Conversation: 
+ patient_convo: Physician: Good morning, Brandy. How are you feeling today?
+
+Patient: Hi, Dr. Chapman. I've been experiencing some concerning symptoms lately. I've had this persistent cough that won't go away, and it's been getting worse over the past few days. It's not really a dry cough, it's more like a wet cough with some phlegm.
+
+Physician: I see. Have you noticed any other symptoms, such as shortness of breath or chest tightness?
+
+Patient: Yes, I have been feeling a bit winded lately, especially when I climb stairs or exert myself. And yes, there's been some chest tightness too.
+
+Physician: Okay, that's helpful to know. Have you had any recent upper respiratory infections or illnesses that could be contributing to this cough?
+
+Patient: Actually, I had a cold a few weeks ago, but it seemed to clear up on its own. I didn't think much of it at the time.
+
+Physician: I understand. Have you noticed any seasonal patterns or triggers that make your symptoms worse, such as pollen or dust?
+
+Patient: Well, I have noticed that my symptoms tend to flare up more in the spring and fall, when the pollen counts are higher. And yes, I do have some dust allergies too.
+
+Physician: That's helpful information. How about any recent changes in your environment or routine that could be contributing to your symptoms? For example, have you recently started a new job or moved to a new home?
+
+Patient: Actually, I did move to a new apartment a few months ago. It's a bit older than my previous place, and I've noticed some dust and mold in the basement.
+
+Physician: I see. That could definitely be a contributing factor. Have you noticed any other symptoms, such as headaches or fatigue?
+
+Patient: Yes, I've been experiencing some headaches and feeling more tired than usual lately.
+
+Physician: Okay, that's important to know. Have you had any recent changes in your medications or supplements?
+
+Patient: No, nothing recent. I do take Montelukast for my asthma, and Sumatriptan as needed for migraines.
+
+Physician: Okay, that's good to know. I'm going to order some tests to help us better understand what's going on. We'll do a chest X-ray to rule out any lung issues, and also check your allergy levels to see if there's anything we can do to help manage your symptoms. We'll also check your thyroid function, as sometimes hypothyroidism can present with cough and fatigue. In the meantime, I'd like to prescribe you an inhaler to help manage your cough and shortness of breath. We'll also schedule a follow-up appointment to discuss the results of the tests and determine the best course of action moving forward. Does that sound good to you?
+
+Patient: Yes, that sounds great. Thank you, Dr. Chapman. I really appreciate your help. 
+ SOAP Notes: 
+ Subjective:
+Brandy Lambert reports experiencing a persistent wet cough with phlegm that has worsened over the past few days. She also notes feeling winded and experiencing chest tightness, especially with exertion. Brandy mentions a recent cold that cleared up on its own and seasonal triggers such as pollen and dust allergies. She moved to a new apartment a few months ago and has noticed dust and mold in the basement. Additionally, Brandy reports headaches and increased fatigue.
+
+Objective:
+Brandy appears alert and oriented during the consultation. Vital signs are within normal limits. Physical examination reveals no acute distress. Chest auscultation shows coarse breath sounds. No other abnormalities noted on examination. Brandy's current medications include Montelukast for asthma and Sumatriptan for migraines.
+
+Assessment:
+Brandy presents with symptoms suggestive of an exacerbation of asthma triggered by environmental factors such as dust and mold. Differential diagnosis includes allergic rhinitis exacerbation and potential hypothyroidism. Further investigations are warranted, including a chest X-ray, allergy testing, and thyroid function tests.
+
+Plan:
+1. Order chest X-ray, allergy testing, and thyroid function tests to further evaluate Brandy's symptoms.
+2. Prescribe an inhaler to help manage cough and shortness of breath.
+3. Schedule a follow-up appointment to discuss test results and determine the next steps in management.
+4. Advise Brandy to monitor symptoms, avoid triggers, and follow up if symptoms worsen or new symptoms develop.
+5. Provide patient education on asthma management and environmental control measures. ","SOAP Notes:
+
+Subjective:
+Mr. Webb reports having a persistent cough for the past few weeks that seems to be worsening, particularly at night. He also experiences shortness of breath while at rest and a persistent dull chest tightness. Mr. Webb has had a low-grade fever for the past few days and has been feeling cold. He also reports fatigue and muscle weakness, particularly in his legs. He is a smoker with a 35-year history of smoking about a pack a day and is a social drinker.
+
+Objective:
+Mr. Webb is alert and coherent during the consultation. Vital signs are to be taken by the nurse. No abnormalities are noted on the physical examination, and Mr. Webb mentions no swelling in his legs or feet. 
+
+Assessment:
+Mr. Webb's symptoms suggest a respiratory infection. Differential diagnosis includes pneumonia due to the presence of cough, fever, and chest tightness. The patient's history of smoking and alcohol use should also be taken into account in the diagnosis.
+
+Plan:
+1. Order a chest X-ray to rule out pneumonia.
+2. Prescribe an antibiotic to help clear up the suspected infection.
+3. Schedule a follow-up appointment for next week to reassess Mr. Webb's symptoms and evaluate his response to the medication.
+4. Call Mr. Webb with the results of the chest X-ray as soon as they are available.
+5. Provide patient education on the impacts of smoking and drinking on respiratory health.","Subjective (S):
+Mr. Webb reports having a persistent cough for several weeks that has been getting worse, especially at night. He describes feeling short of breath even when at rest and having a constant tightness in his chest. He has also been experiencing a low-grade fever and feeling cold. His cough is mostly dry, and while he sometimes brings up mucus, he denies noticing any blood. The patient describes chest tightness as a dull ache that has been occurring on and off for a few weeks, but has lately been getting worse. He further reports feeling tired and experiencing muscle weakness, particularly in his legs. He denies any swelling in his legs or feet. Mr. Webb is a long-term smoker (35 years, a pack a day) and a social drinker.
+
+Objective (O):
+The patient appears alert and oriented during the consultation. Vital signs are to be taken by the nurse. A chest X-ray has been ordered to rule out pneumonia.
+
+Assessment (A):
+The patient's symptoms suggest a possible respiratory infection. His long-term history of smoking and reported symptoms suggest further assessment for conditions like COPD or pneumonia is necessary.
+
+Plan (P):
+1. Prescribe an antibiotic to help clear up a potential infection.
+2. Schedule a chest X-ray to rule out pneumonia or other possible respiratory conditions.
+3. Schedule a follow-up appointment next week to reassess symptoms and treatment response.
+4. The patient should monitor his symptoms closely and contact the clinic if there is any worsening or new symptoms.
+5. Advise the patient to consider smoking cessation programs and limit alcohol consumption.","{'rouge1': 0.5700934579439253, 'rouge2': 0.25352112676056343, 'rougeL': 0.4205607476635514, 'rougeLsum': 0.5233644859813084}","{'rouge1': 0.5374449339207048, 'rouge2': 0.19911504424778761, 'rougeL': 0.3568281938325991, 'rougeLsum': 0.49339207048458156}","{'bleu': 0.2182930784119147, 'precisions': [0.5454545454545454, 0.28102189781021897, 0.16117216117216118, 0.09191176470588236], 'brevity_penalty': 1.0, 'length_ratio': 1.261467889908257, 'translation_length': 275, 'reference_length': 218}","{'bleu': 0.14659974776935497, 'precisions': [0.48534201954397393, 0.21895424836601307, 0.10163934426229508, 0.04276315789473684], 'brevity_penalty': 1.0, 'length_ratio': 1.408256880733945, 'translation_length': 307, 'reference_length': 218}"
+8,"
+Physician: Good morning, Mr. Spencer. How are you feeling today?
+
+Patient: Hi, Doc. I've been feeling a bit off lately. I've had some shortness of breath, and my energy levels have been low.
+
+Physician: I see. Can you tell me more about your shortness of breath? Is it occasional or persistent?
+
+Patient: It's been coming and going for the past few weeks. It's not severe, but it's definitely noticeable, especially when I'm doing simple tasks like walking upstairs.
+
+Physician: I understand. Have you experienced any chest pain or tightness?
+
+Patient: No, nothing like that. Just the shortness of breath.
+
+Physician: Okay. And how about your energy levels? Have you noticed any specific patterns or triggers that make you feel more fatigued?
+
+Patient: Well, I've been feeling tired most of the time, even after getting a full night's sleep. It's like my body just can't seem to catch up.
+
+Physician: I see. Have you experienced any other symptoms that might be related to your fatigue? Dizziness, lightheadedness, or nausea, for example?
+
+Patient: No, nothing like that. Just the fatigue and shortness of breath.
+
+Physician: Okay. Let's take a step back and look at your overall health. You have a history of hypertension and diabetes. Have you noticed any changes in your blood sugar control or blood pressure recently?
+
+Patient: Actually, yes. My blood sugar has been a bit higher than usual lately, and my blood pressure has been creeping up too.
+
+Physician: I see. That could certainly contribute to your symptoms. Have you experienced any other health issues recently, such as pain or discomfort?
+
+Patient: Well, my joints have been aching a bit more than usual, especially in the mornings. But it's not anything too severe.
+
+Physician: Okay. That could be related to your osteoarthritis. I'm going to order some lab tests to check your blood sugar and blood pressure control, as well as your lipid panel and kidney function. We'll also schedule you for a colonoscopy to ensure everything is okay with your digestive health. In the meantime, I want to increase your blood pressure medication and recommend some lifestyle changes to help manage your symptoms. Does that sound good to you?
+
+Patient: Yes, that sounds great. Thank you, Doc.
+
+Physician: You're welcome, Mr. Spencer. I'll have the nurse come in and go over the details with you. We'll get you feeling better in no time.","Subjective:
+Mr. Spencer reports feeling off lately with symptoms of shortness of breath and low energy levels. He describes the shortness of breath as intermittent and noticeable during simple tasks like walking upstairs. He denies chest pain or tightness but acknowledges feeling tired most of the time, even after adequate sleep. He denies dizziness, lightheadedness, or nausea. Mr. Spencer notes higher blood sugar levels and increasing blood pressure. He also mentions joint pain, particularly in the mornings.
+
+Objective:
+Mr. Spencer appears fatigued during the examination but is alert and oriented. Vital signs show blood pressure at 142/88 mmHg. Lab results indicate an HbA1c of 6.8% and a normal lipid panel. Physical examination reveals signs of osteoarthritis with joint tenderness and limited range of motion.
+
+Assessment:
+Mr. Spencer presents with symptoms of shortness of breath, fatigue, elevated blood sugar, and increasing blood pressure. His osteoarthritis is contributing to joint pain. Lab results show stable diabetes control but elevated blood pressure. Further evaluation is needed to assess kidney function and digestive health through a colonoscopy.
+
+Plan:
+Order lab tests to monitor blood sugar control, blood pressure, lipid panel, and kidney function. Schedule a colonoscopy for further evaluation. Increase blood pressure medication to manage hypertension. Recommend lifestyle changes to improve symptoms. Follow up with Mr. Spencer to discuss test results and adjust treatment plan as needed.","Conversation: 
+ patient_convo: Physician: Good morning, Mr. Wagner. How are you feeling today?
+
+Patient: Not too bad, Doc. I've been feeling a bit winded lately, and my energy levels have been low.
+
+Physician: I see. Can you quantify that for me? How short of breath are you? Is it mild, moderate, or severe?
+
+Patient: It's probably a moderate shortness of breath. I can still do my daily activities, but I get tired quickly. And sometimes, I feel like I can't catch my breath.
+
+Physician: Okay. Have you noticed any swelling in your legs or feet?
+
+Patient: Yes, my ankles have been swollen for a few days now.
+
+Physician: How long have you been experiencing this shortness of breath and fatigue?
+
+Patient: It started about a week ago. I thought it was just a cold or something, but it hasn't gone away.
+
+Physician: I understand. Have you experienced any chest pain or tightness?
+
+Patient: Yes, I've had some chest discomfort, especially when I exert myself. It's not crushing or anything, but it's uncomfortable.
+
+Physician: Okay. Have you noticed any irregular heartbeats or palpitations?
+
+Patient: No, not that I've noticed.
+
+Physician: Good. Have you had any nausea or vomiting?
+
+Patient: No, not recently.
+
+Physician: Okay. Let's talk about your medical history. You have hypertension, hyperlipidemia, and diabetes. Are you taking your medications as prescribed?
+
+Patient: Yes, I take them every day.
+
+Physician: Great. Have you noticed any changes in your urination or thirst?
+
+Patient: Yes, I've been peeing more often, especially at night. And I've been feeling thirstier than usual.
+
+Physician: That's helpful information. Have you recently gained or lost weight?
+
+Patient: I've lost a few pounds recently, but that's because I haven't been feeling like eating much.
+
+Physician: Okay. Have you experienced any other symptoms, such as dizziness or lightheadedness?
+
+Patient: No, not that I can think of.
+
+Physician: Alright. I'm going to order some tests to help us better understand what's going on. We'll do an echocardiogram to assess your heart function, and some blood work to check your lipid levels, blood sugar, and renal function. In the meantime, I'd like to start you on a medication to help with the shortness of breath and swelling. We'll follow up in two weeks to review the results and adjust your treatment plan as needed. Does that sound good to you?
+
+Patient: Yes, that sounds good. Thank you, Doc.
+
+Physician: You're welcome, Mr. Wagner. We'll get you feeling better in no time. 
+ SOAP Notes: 
+ Subjective:
+Mr. Wagner reports feeling winded and experiencing low energy levels. He describes his shortness of breath as moderate and notes swelling in his ankles. He has been feeling this way for about a week and has also experienced chest discomfort, especially with exertion. He denies palpitations, nausea, vomiting, dizziness, or lightheadedness. Mr. Wagner mentions increased urination, thirst, and unintentional weight loss.
+
+Objective:
+Mr. Wagner appears fatigued but is alert and oriented. He has no signs of respiratory distress. Physical examination reveals bilateral ankle edema. Vital signs are within normal limits. Echocardiogram results show moderate left ventricular systolic dysfunction. Blood work reveals elevated lipid levels and blood sugar.
+
+Assessment:
+Mr. Wagner presents with new onset heart failure with an ejection fraction of 35%. He has hypertension, hyperlipidemia, and diabetes. The patient is experiencing symptoms of heart failure, including shortness of breath, fatigue, ankle edema, and chest discomfort. He has unintentional weight loss and increased thirst and urination, suggestive of possible renal involvement.
+
+Plan:
+Initiate ACE inhibitor and diuretic therapy for heart failure management. Monitor closely for signs of worsening heart failure. Follow up in two weeks for echocardiogram and further management. Educate on heart failure management, including medication adherence and lifestyle modifications. Refer to dietitian for dietary counseling. Follow up with cardiologist for ongoing care. Address overdue influenza vaccine and colorectal cancer screening. ","SOAP Notes:
+
+Subjective:
+Mr. Spencer reports experiencing shortness of breath and low energy levels. He states that these symptoms have been occurring intermittently for a few weeks, with more pronounced shortness of breath while performing simple tasks. He denies experiencing any chest pain or tightness. Mr. Spencer reports feeling fatigued most of the time, even after a full night's sleep. He denies dizziness, lightheadedness, or nausea. He also mentions an increase in blood sugar, blood pressure, and joint aches, especially in the morning. 
+
+Objective:
+Mr. Spencer appears fatigued but is alert and oriented. He has no signs of respiratory distress. He has a known history of hypertension and diabetes, and recent self-reported measures indicate suboptimal control of both conditions. 
+
+Assessment:
+Mr. Spencer presents with intermittent shortness of breath and persistent fatigue. His reported symptoms, coupled with his history of hypertension and diabetes, suggest possible cardiac involvement. His joint aches could be related to his known history of osteoarthritis. His elevated blood sugar and blood pressure readings warrant further investigation.
+
+Plan:
+Order lab tests to evaluate blood sugar, blood pressure control, lipid panel, and kidney function. Also, schedule a colonoscopy to ensure digestive health. Increase his blood pressure medication and recommend lifestyle changes, including a balanced diet and regular exercise to help manage symptoms. Follow up to discuss the results of lab tests and adjust the treatment plan as necessary. Monitor closely for any worsening of symptoms. Continue to manage his osteoarthritis and diabetes as per previous plans, with adjustments as necessary based on lab results.","Subjective (S): 
+Mr. Spencer presents with shortness of breath and persistent fatigue over the past few weeks. He reports no chest pain but has noticed an increase in his blood sugar and blood pressure levels. He also reports joint aches, particularly in the mornings. He has a history of hypertension, diabetes, and osteoarthritis. 
+
+Objective (O): 
+Mr. Spencer appears alert during the consultation. He reports no dizziness, lightheadedness, or nausea. Physical examination pending, with planned lab tests to include blood sugar and blood pressure control, lipid panel, and kidney function. A colonoscopy is also planned.
+
+Assessment (A): 
+Mr. Spencer's symptoms of fatigue and shortness of breath could be related to poorly controlled hypertension and diabetes. He also reports increased joint pain, possibly related to his history of osteoarthritis. Given his history, further investigation is needed to rule out any underlying cardiac or pulmonary issues.
+
+Plan (P): 
+1. Increase the dosage of his blood pressure medication.
+2. Order lab tests to check blood sugar and blood pressure control, lipid panel, and kidney function.
+3. Schedule a colonoscopy to check his digestive health.
+4. Recommend lifestyle changes, including a balanced diet and regular exercise, to manage his hypertension and diabetes.
+5. Schedule a follow-up appointment to discuss the results of his lab tests and colonoscopy, and adjust his treatment plan accordingly.
+6. Monitor Mr. Spencer's symptoms closely and advise him to seek medical attention if they worsen or if he experiences any new concerning symptoms.","{'rouge1': 0.6431535269709544, 'rouge2': 0.3375, 'rougeL': 0.4647302904564315, 'rougeLsum': 0.5518672199170126}","{'rouge1': 0.5872340425531914, 'rouge2': 0.2435897435897436, 'rougeL': 0.35744680851063826, 'rougeLsum': 0.5191489361702127}","{'bleu': 0.3062483812025604, 'precisions': [0.6220735785953178, 0.3624161073825503, 0.2356902356902357, 0.16554054054054054], 'brevity_penalty': 1.0, 'length_ratio': 1.1325757575757576, 'translation_length': 299, 'reference_length': 264}","{'bleu': 0.19523205887036227, 'precisions': [0.5641891891891891, 0.27796610169491526, 0.1292517006802721, 0.07167235494880546], 'brevity_penalty': 1.0, 'length_ratio': 1.121212121212121, 'translation_length': 296, 'reference_length': 264}"
+9,"
+Physician: Good morning, Mr. Burns. How are you feeling today?
+
+Patient: Hi, Dr. Carlson. I've been feeling a bit off lately. My blood pressure has been high, and my blood sugar has been all over the place. I've also gained a bit of weight, which I'm sure isn't helping.
+
+Physician: I see. Have you noticed any symptoms such as headaches, dizziness, or blurred vision?
+
+Patient: Yes, I've been getting headaches pretty regularly, especially in the morning. And sometimes I feel a bit lightheaded when I stand up too quickly.
+
+Physician: Okay, that's helpful to know. Have you noticed any changes in your urination habits or experiencing any pain or discomfort in your abdomen?
+
+Patient: Well, I have been needing to urinate more frequently, especially at night. And sometimes I feel a bit of discomfort in my stomach, like a dull ache.
+
+Physician: I understand. Have you had any recent illnesses or injuries that may be contributing to your symptoms?
+
+Patient: No, nothing recent. But I did have a bout of bronchitis a few months ago.
+
+Physician: Bronchitis can definitely affect your respiratory health. Have you noticed any shortness of breath or wheezing?
+
+Patient: Yes, I have been feeling a bit winded when I exert myself. And sometimes I get this tightness in my chest that makes it hard to breathe deeply.
+
+Physician: I see. Have you had any recent changes in your diet or exercise routine that may be contributing to your weight gain and high blood pressure?
+
+Patient: Well, I've been trying to eat healthier, but it's hard when my wife is always cooking rich foods. And I've been meaning to start exercising more, but I just haven't had the time.
+
+Physician: I understand. It can be challenging to make those changes, especially when there are other factors at play. Have you experienced any stress or anxiety that may be impacting your health?
+
+Patient: Yes, I have been feeling pretty stressed out lately. Work has been hectic, and I've been worried about my health issues.
+
+Physician: I see. Well, Mr. Burns, based on what you've shared with me today, it sounds like we need to take a closer look at your hypertension and diabetes management. We'll need to discuss your medications and potentially make some changes to your regimen. We'll also want to schedule you for some follow-up appointments to monitor your progress. And given your history of bronchitis, we'll want to keep an eye on your respiratory health as well.
+
+Patient: Okay, that sounds good. I just want to feel better and get my health back on track.
+
+Physician: Absolutely. We'll work together to make sure that happens. Let's start by scheduling some tests and appointments. And in the meantime, I recommend that you continue to work on making healthy lifestyle changes, such as eating a balanced diet and finding ways to manage your stress levels.
+
+Patient: Alright, that sounds like a plan. Thank you, Dr. Carlson.
+
+Physician: You're welcome, Mr. Burns. We'll be in touch soon to discuss your test results and next steps.","Subjective:
+Mr. Burns reports feeling off lately with high blood pressure, fluctuating blood sugar levels, headaches, lightheadedness, increased urination, abdominal discomfort, shortness of breath, chest tightness, and stress. He mentions challenges with diet and exercise due to his wife's cooking and work-related stress.
+
+Objective:
+Mr. Burns presents with high blood pressure (142/88 mmHg) and elevated blood glucose levels (178 mg/dL). He is overweight and has a history of hypertension, type 2 diabetes, and obesity. He is a former smoker and social drinker. His recent bout of bronchitis may be impacting his respiratory health.
+
+Assessment:
+Mr. Burns requires closer monitoring of his hypertension and diabetes management. Medication adjustments may be necessary, and follow-up appointments are needed to track his progress. Respiratory health should also be monitored due to his history of bronchitis.
+
+Plan:
+Schedule tests and follow-up appointments to monitor Mr. Burns' health. Consider medication adjustments for hypertension and diabetes. Encourage healthy lifestyle changes, including a balanced diet and stress management techniques. Keep an eye on respiratory health and address any concerns that may arise. Follow up with Mr. Burns to discuss test results and next steps.","Conversation: 
+ patient_convo: Physician: Good morning, Mr. Austin. It's a pleasure to meet you. How are you feeling today?
+
+Patient: Good morning, Doctor. I'm doing alright, I guess. I've been feeling a bit tired lately and noticed that my blood pressure has been creeping up again.
+
+Physician: I see. Can you tell me more about your fatigue? When did you first notice it, and how has it been affecting your daily activities?
+
+Patient: Well, it's been on and off for the past few months. Some days I feel fine, but others I just feel exhausted, like I can't even get out of bed. It's been affecting my work, too. I've been having trouble concentrating and feeling motivated.
+
+Physician: I understand. Have you noticed any other symptoms, such as shortness of breath, dizziness, or headaches?
+
+Patient: Yes, I have been getting headaches pretty frequently, especially in the evenings. And sometimes I feel like my heart is racing, even when I'm just sitting still.
+
+Physician: I see. Have you experienced any recent stressors or changes in your life that could be contributing to these symptoms?
+
+Patient: Well, my job has been pretty stressful lately. I've been working long hours and haven't been able to take many breaks. And my wife and I recently had a baby, so that's been a big adjustment for us.
+
+Physician: Congratulations on the new addition to your family! I can understand how that can be a challenging time. Have you noticed any changes in your appetite or sleep patterns?
+
+Patient: Yes, I've been having trouble sleeping at night. I'll lie awake for hours, feeling like my mind is racing. And as for appetite, I've been eating a bit more than usual, especially late at night.
+
+Physician: I see. Have you experienced any swelling in your legs or feet, or noticed any changes in your urination habits?
+
+Patient: Yes, my legs have been feeling pretty swollen lately, especially after I've been sitting or standing for a while. And I've been needing to urinate more often, especially at night.
+
+Physician: I understand. Mr. Austin, based on what you've shared with me today, it sounds like we need to take a closer look at your blood pressure and cardiovascular health. I'd like to schedule some tests to get a better understanding of what's going on. In the meantime, I recommend that you start monitoring your blood pressure at home and keep a log of your readings. We'll discuss the results at your next appointment.
+
+Patient: Sure, that sounds good. I appreciate your help, Doctor.
+
+Physician: Of course, Mr. Austin. We'll work together to get to the bottom of this and make sure you're feeling your best. 
+ SOAP Notes: 
+ SOAP Note:
+
+Subjective:
+Mr. Roland Austin presents with complaints of fatigue, headaches, occasional racing heart sensation, swelling in legs, increased urination frequency, and difficulty sleeping. He attributes his symptoms to work stress and recent lifestyle changes, including the birth of his child.
+
+Objective:
+Mr. Austin appears fatigued but alert during the consultation. Vital signs show elevated blood pressure readings. No signs of distress or acute illness noted. Patient reports recent weight gain and swelling in lower extremities. Cardiovascular exam reveals no murmurs or abnormal sounds.
+
+Assessment:
+1. Hypertension: Elevated blood pressure readings and symptoms suggestive of cardiovascular issues.
+2. Fatigue and sleep disturbances: Likely related to stress and lifestyle changes.
+3. Weight gain and swelling: Possible fluid retention secondary to hypertension.
+
+Plan:
+1. Order blood tests to assess lipid profile, kidney function, and electrolyte levels.
+2. Schedule an echocardiogram to evaluate cardiac function.
+3. Recommend lifestyle modifications, including stress management techniques and dietary changes.
+4. Adjust current medications if necessary to optimize blood pressure control.
+5. Follow up in two weeks to review test results and adjust treatment plan accordingly. ","SOAP Note:
+
+Subjective:
+Mr. Burns reports feeling ""off"" with fluctuating blood sugar levels, high blood pressure, and recent weight gain. He experiences regular morning headaches, occasional dizziness upon standing quickly, increased frequency of urination – particularly at night, and occasional stomach discomfort. He has been feeling short of breath and has had chest tightness during exertion. He also reports feeling stressed due to work and health concerns.
+
+Objective:
+Mr. Burns appears alert but concerned about his health. He reports recent changes in blood pressure and blood glucose levels, with noted weight gain. He also reports a history of bronchitis a few months ago.
+
+Assessment:
+1. Hypertension: Mr. Burns reports high blood pressure and has symptoms consistent with this condition.
+2. Diabetes: Fluctuating blood sugar levels and frequent urination suggest potential issues with diabetes management.
+3. Weight Gain: Mr. Burns acknowledges recent weight gain and recognizes the impact on his overall health.
+4. Stress: The patient reports feeling stressed, which could be contributing to his symptoms and complicating the management of his chronic conditions.
+5. Respiratory Symptoms: The patient reports shortness of breath and chest tightness on exertion, possibly related to his history of bronchitis.
+
+Plan:
+1. Review and potentially adjust Mr. Burns' current medication regimen to better manage his hypertension and diabetes.
+2. Schedule follow-up appointments to monitor the patient's progress.
+3. Recommend lifestyle modifications, including dietary changes and stress management techniques.
+4. Arrange for routine tests to monitor blood pressure, blood glucose, and respiratory health.
+5. Follow up to discuss test results and determine the next steps in his treatment plan.","Subjective (S): 
+Mr. Burns reports feeling ""a bit off"" recently. He states that his blood pressure has been high, and his blood sugar has been fluctuating. He also reports a recent weight gain. He's been experiencing regular headaches, especially in the mornings, and lightheadedness when standing up too quickly. He also reports increased urination frequency, especially at night, and occasional stomach discomfort. He had bronchitis a few months ago and is now experiencing shortness of breath, chest tightness, and occasional wheezing. He reports a stressful work environment and concerns about his health issues.
+
+Objective (O): 
+Mr. Burns is alert and oriented during the consultation. He reports no recent illnesses or injuries. He's been trying to eat healthier but struggles due to his wife's cooking habits. He has intentions of exercising more but hasn't found the time. 
+
+Assessment (A): 
+Mr. Burns' symptoms suggest uncontrolled hypertension and diabetes, and potential complications thereof. His frequent urination could be a sign of poorly controlled diabetes, and his headaches and dizziness may be related to his reported high blood pressure. His respiratory symptoms may be a residual effect of his recent bout of bronchitis or could suggest another underlying issue. His reported stress and concern about his health could also be contributing to his symptoms.
+
+Plan (P): 
+1. Review and potentially adjust Mr. Burn's current medications for hypertension and diabetes management.
+2. Schedule follow-up appointments to monitor Mr. Burns' progress.
+3. Monitor Mr. Burns' respiratory health given his history of bronchitis.
+4. Order some tests to further investigate his symptoms and to evaluate his hypertension and diabetes status.
+5. Advise Mr. Burns to continue working on lifestyle modifications, such as a balanced diet and stress management.
+6. Discuss the test results and next steps with Mr. Burns once they are available.","{'rouge1': 0.5582417582417581, 'rouge2': 0.2339955849889625, 'rougeL': 0.34285714285714286, 'rougeLsum': 0.5098901098901097}","{'rouge1': 0.5222672064777327, 'rouge2': 0.24390243902439024, 'rougeL': 0.32388663967611336, 'rougeLsum': 0.465587044534413}","{'bleu': 0.18811730876053825, 'precisions': [0.48264984227129337, 0.25949367088607594, 0.1365079365079365, 0.0732484076433121], 'brevity_penalty': 1.0, 'length_ratio': 1.3842794759825328, 'translation_length': 317, 'reference_length': 229}","{'bleu': 0.18056294260845251, 'precisions': [0.4535211267605634, 0.2231638418079096, 0.1274787535410765, 0.08238636363636363], 'brevity_penalty': 1.0, 'length_ratio': 1.5502183406113537, 'translation_length': 355, 'reference_length': 229}"

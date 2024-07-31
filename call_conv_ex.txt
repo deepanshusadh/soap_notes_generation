@@ -1,0 +1,29 @@
+Physician: Good morning, Andre. How are you feeling today?
+
+Patient: Hi, Dr. Payne. I've been feeling pretty miserable lately. My allergies have been acting up, and I've had a constant runny nose, itchy eyes, and sneezing nonstop. It's been getting worse over the past few weeks.
+
+Physician: I see. Have you noticed any patterns or triggers that seem to make your symptoms worse?
+
+Patient: Well, it seems to get worse when I'm outside during peak pollen seasons. I've also noticed that my symptoms are more severe in the spring and fall.
+
+Physician: That's helpful to know. Have you tried any over-the-counter medications or remedies to alleviate your symptoms?
+
+Patient: Yes, I've been using Loratadine, but it doesn't seem to be working as well as it used to. I've also tried nasal sprays and antihistamines, but they haven't provided much relief.
+
+Physician: I understand. Have you experienced any shortness of breath or wheezing along with your allergies?
+
+Patient: Yes, sometimes I feel like I can't catch my breath, especially when I'm doing physical activity or exerting myself. It's like my chest gets tight, and I start to wheeze.
+
+Physician: That sounds like it might be related to your asthma. We should monitor your lung function and assess your symptoms further. Let's schedule you for a follow-up appointment to discuss the results of your allergy testing and determine the best course of action for your treatment plan. In the meantime, I'd like to recommend an inhaler to help manage your asthma symptoms. How has your seasonal allergy been affecting your daily activities?
+
+Patient: It's been pretty frustrating, to be honest. I have to constantly blow my nose, and my eyes get itchy and watery. It's hard to focus on work when I'm constantly feeling uncomfortable. And when my asthma flares up, it's scary. I worry that I might have an attack and not be able to breathe.
+
+Physician: I understand your concerns. We'll definitely work on getting your symptoms under control. Have you noticed any changes in your sleep patterns or fatigue?
+
+Patient: Yes, I've been feeling pretty tired lately. I've had trouble sleeping at night because of my symptoms, and I've been feeling worn out during the day.
+
+Physician: That's not uncommon when you're dealing with chronic conditions like allergies and asthma. Let's make sure to address those issues as part of your treatment plan. Andre, I'm going to prescribe you a medication that will help with your symptoms, and we'll also schedule you for a follow-up appointment to monitor your progress. In the meantime, please make sure to avoid any known allergens and take your medications as directed. If your symptoms worsen or you experience any shortness of breath or chest tightness, please don't hesitate to reach out to my office or seek emergency care if necessary.
+
+Patient: Thank you, Dr. Payne. I appreciate your help in managing my conditions.
+
+Physician: Of course, Andre. That's what we're here for. We'll work together to get you feeling better. 

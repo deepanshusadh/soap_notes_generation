@@ -1,0 +1,15 @@
+openai
+transformers
+langchain
+langchain-openai
+langchain-community
+datasets
+chromadb
+sentence-transformers
+faiss-cpu
+langchain-mistralai
+langchain-google-genai
+evaluate
+rouge_score
+datasets
+streamlit
